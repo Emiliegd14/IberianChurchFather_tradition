@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="388pt" height="404pt" viewBox="0.00 0.00 388.00 404.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-400 384,-400 384,4 -4,4"/>
+<!-- omega1 -->
+<g id="node1" class="node">
+<title>omega1</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="135" cy="-378" rx="27" ry="18"/>
+<text text-anchor="middle" x="135" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ω1</text>
+</g>
+<!-- gamma -->
+<g id="node2" class="node">
+<title>gamma</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="171" cy="-306" rx="27" ry="18"/>
+<text text-anchor="middle" x="171" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">γ</text>
+</g>
+<!-- omega1&#45;&gt;gamma -->
+<g id="edge1" class="edge">
+<title>omega1-&gt;gamma</title>
+<path fill="none" stroke="#000000" d="M143.7146,-360.5708C147.9597,-352.0807 153.1536,-341.6929 157.8663,-332.2674"/>
+<polygon fill="#000000" stroke="#000000" points="161.024,-333.7782 162.3657,-323.2687 154.763,-330.6477 161.024,-333.7782"/>
+</g>
+<!-- chi -->
+<g id="node5" class="node">
+<title>chi</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="99" cy="-306" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">χ</text>
+</g>
+<!-- omega1&#45;&gt;chi -->
+<g id="edge4" class="edge">
+<title>omega1-&gt;chi</title>
+<path fill="none" stroke="#000000" d="M126.2854,-360.5708C122.0403,-352.0807 116.8464,-341.6929 112.1337,-332.2674"/>
+<polygon fill="#000000" stroke="#000000" points="115.237,-330.6477 107.6343,-323.2687 108.976,-333.7782 115.237,-330.6477"/>
+</g>
+<!-- B -->
+<g id="node3" class="node">
+<title>B</title>
+<ellipse fill="none" stroke="#000000" cx="171" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="171" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">B</text>
+</g>
+<!-- gamma&#45;&gt;B -->
+<g id="edge2" class="edge">
+<title>gamma-&gt;B</title>
+<path fill="none" stroke="#000000" d="M171,-287.7623C171,-263.201 171,-219.2474 171,-190.3541"/>
+<polygon fill="#000000" stroke="#000000" points="174.5001,-190.0896 171,-180.0896 167.5001,-190.0897 174.5001,-190.0896"/>
+</g>
+<!-- P -->
+<g id="node4" class="node">
+<title>P</title>
+<ellipse fill="none" stroke="#000000" cx="226" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="226" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">P</text>
+</g>
+<!-- gamma&#45;&gt;P -->
+<g id="edge3" class="edge">
+<title>gamma-&gt;P</title>
+<path fill="none" stroke="#000000" d="M183.4804,-289.6621C190.5124,-280.4564 199.4347,-268.7764 207.2883,-258.4953"/>
+<polygon fill="#000000" stroke="#000000" points="210.28,-260.3446 213.569,-250.2733 204.7172,-256.0953 210.28,-260.3446"/>
+</g>
+<!-- A -->
+<g id="node6" class="node">
+<title>A</title>
+<ellipse fill="none" stroke="#000000" cx="27" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">A</text>
+</g>
+<!-- chi&#45;&gt;A -->
+<g id="edge5" class="edge">
+<title>chi-&gt;A</title>
+<path fill="none" stroke="#000000" d="M83.7307,-290.7307C73.803,-280.803 60.6847,-267.6847 49.5637,-256.5637"/>
+<polygon fill="#000000" stroke="#000000" points="51.7933,-253.8436 42.2473,-249.2473 46.8436,-258.7933 51.7933,-253.8436"/>
+</g>
+<!-- alpha -->
+<g id="node7" class="node">
+<title>alpha</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="99" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">α</text>
+</g>
+<!-- chi&#45;&gt;alpha -->
+<g id="edge6" class="edge">
+<title>chi-&gt;alpha</title>
+<path fill="none" stroke="#000000" d="M99,-287.8314C99,-280.131 99,-270.9743 99,-262.4166"/>
+<polygon fill="#000000" stroke="#000000" points="102.5001,-262.4132 99,-252.4133 95.5001,-262.4133 102.5001,-262.4132"/>
+</g>
+<!-- R -->
+<g id="node12" class="node">
+<title>R</title>
+<ellipse fill="none" stroke="#000000" cx="99" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">R</text>
+</g>
+<!-- alpha&#45;&gt;R -->
+<g id="edge13" class="edge">
+<title>alpha-&gt;R</title>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M99,-215.8314C99,-208.131 99,-198.9743 99,-190.4166"/>
+<polygon fill="#000000" stroke="#000000" points="102.5001,-190.4132 99,-180.4133 95.5001,-190.4133 102.5001,-190.4132"/>
+</g>
+<!-- omega2 -->
+<g id="node8" class="node">
+<title>omega2</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="317" cy="-378" rx="27" ry="18"/>
+<text text-anchor="middle" x="317" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ω2</text>
+</g>
+<!-- kappa -->
+<g id="node9" class="node">
+<title>kappa</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="281" cy="-306" rx="27" ry="18"/>
+<text text-anchor="middle" x="281" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">κ</text>
+</g>
+<!-- omega2&#45;&gt;kappa -->
+<g id="edge7" class="edge">
+<title>omega2-&gt;kappa</title>
+<path fill="none" stroke="#000000" d="M308.2854,-360.5708C304.0403,-352.0807 298.8464,-341.6929 294.1337,-332.2674"/>
+<polygon fill="#000000" stroke="#000000" points="297.237,-330.6477 289.6343,-323.2687 290.976,-333.7782 297.237,-330.6477"/>
+</g>
+<!-- xi -->
+<g id="node11" class="node">
+<title>xi</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="353" cy="-306" rx="27" ry="18"/>
+<text text-anchor="middle" x="353" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">ξ</text>
+</g>
+<!-- omega2&#45;&gt;xi -->
+<g id="edge9" class="edge">
+<title>omega2-&gt;xi</title>
+<path fill="none" stroke="#000000" d="M325.7146,-360.5708C329.9597,-352.0807 335.1536,-341.6929 339.8663,-332.2674"/>
+<polygon fill="#000000" stroke="#000000" points="343.024,-333.7782 344.3657,-323.2687 336.763,-330.6477 343.024,-333.7782"/>
+</g>
+<!-- kappa&#45;&gt;P -->
+<g id="edge14" class="edge">
+<title>kappa-&gt;P</title>
+<path fill="none" stroke="#000000" d="M268.5196,-289.6621C261.4876,-280.4564 252.5653,-268.7764 244.7117,-258.4953"/>
+<polygon fill="#000000" stroke="#000000" points="247.2828,-256.0953 238.431,-250.2733 241.72,-260.3446 247.2828,-256.0953"/>
+</g>
+<!-- Bea -->
+<g id="node10" class="node">
+<title>Bea</title>
+<ellipse fill="none" stroke="#000000" cx="298" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="298" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">Bea</text>
+</g>
+<!-- kappa&#45;&gt;Bea -->
+<g id="edge8" class="edge">
+<title>kappa-&gt;Bea</title>
+<path fill="none" stroke="#000000" d="M285.2022,-288.2022C287.0821,-280.2406 289.3425,-270.6671 291.4371,-261.7957"/>
+<polygon fill="#000000" stroke="#000000" points="294.8955,-262.3792 293.7872,-251.8425 288.0828,-260.7706 294.8955,-262.3792"/>
+</g>
+<!-- xi&#45;&gt;R -->
+<g id="edge10" class="edge">
+<title>xi-&gt;R</title>
+<path fill="none" stroke="#000000" d="M354.6439,-287.6675C355.3868,-267.2197 353.13,-234.5815 334,-216 269.5277,-153.3762 220.2802,-208.3848 135,-180 133.1104,-179.3711 131.1954,-178.6591 129.284,-177.8903"/>
+<polygon fill="#000000" stroke="#000000" points="130.4499,-174.5779 119.8919,-173.6952 127.595,-180.9693 130.4499,-174.5779"/>
+</g>
+<!-- U -->
+<g id="node13" class="node">
+<title>U</title>
+<ellipse fill="none" stroke="#000000" cx="99" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">U</text>
+</g>
+<!-- R&#45;&gt;U -->
+<g id="edge11" class="edge">
+<title>R-&gt;U</title>
+<path fill="none" stroke="#000000" d="M99,-143.8314C99,-136.131 99,-126.9743 99,-118.4166"/>
+<polygon fill="#000000" stroke="#000000" points="102.5001,-118.4132 99,-108.4133 95.5001,-118.4133 102.5001,-118.4132"/>
+</g>
+<!-- N -->
+<g id="node14" class="node">
+<title>N</title>
+<ellipse fill="none" stroke="#000000" cx="99" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">N</text>
+</g>
+<!-- U&#45;&gt;N -->
+<g id="edge12" class="edge">
+<title>U-&gt;N</title>
+<path fill="none" stroke="#000000" d="M99,-71.8314C99,-64.131 99,-54.9743 99,-46.4166"/>
+<polygon fill="#000000" stroke="#000000" points="102.5001,-46.4132 99,-36.4133 95.5001,-46.4133 102.5001,-46.4132"/>
+</g>
+</g>
+</svg>

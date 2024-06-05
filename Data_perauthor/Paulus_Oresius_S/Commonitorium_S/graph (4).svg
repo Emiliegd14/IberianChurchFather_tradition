@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299pt" height="369pt" viewBox="0.00 0.00 299.00 369.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 365)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-365 295,-365 295,4 -4,4"/>
+<!-- omega -->
+<g id="node1" class="node">
+<title>omega</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="127" cy="-343" rx="27" ry="18"/>
+<text text-anchor="middle" x="127" y="-338.8" font-family="Times,serif" font-size="14.00" fill="#000000">ω</text>
+</g>
+<!-- alpha -->
+<g id="node2" class="node">
+<title>alpha</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="82" cy="-271" rx="27" ry="18"/>
+<text text-anchor="middle" x="82" y="-266.8" font-family="Times,serif" font-size="14.00" fill="#000000">α</text>
+</g>
+<!-- omega&#45;&gt;alpha -->
+<g id="edge1" class="edge">
+<title>omega-&gt;alpha</title>
+<path fill="none" stroke="#000000" d="M116.563,-326.3008C111.0765,-317.5224 104.2314,-306.5703 98.0837,-296.7339"/>
+<polygon fill="#000000" stroke="#000000" points="100.9609,-294.7336 92.6929,-288.1086 95.0249,-298.4436 100.9609,-294.7336"/>
+</g>
+<!-- beta -->
+<g id="node3" class="node">
+<title>beta</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="173" cy="-271" rx="27" ry="18"/>
+<text text-anchor="middle" x="173" y="-266.8" font-family="Times,serif" font-size="14.00" fill="#000000">β</text>
+</g>
+<!-- omega&#45;&gt;beta -->
+<g id="edge2" class="edge">
+<title>omega-&gt;beta</title>
+<path fill="none" stroke="#000000" d="M137.6689,-326.3008C143.3586,-317.3952 150.4777,-306.2524 156.8316,-296.307"/>
+<polygon fill="#000000" stroke="#000000" points="159.9544,-297.92 162.3889,-287.6087 154.0555,-294.1513 159.9544,-297.92"/>
+</g>
+<!-- A -->
+<g id="node4" class="node">
+<title>A</title>
+<ellipse fill="none" stroke="#000000" cx="27" cy="-199" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-194.8" font-family="Times,serif" font-size="14.00" fill="#000000">A</text>
+</g>
+<!-- alpha&#45;&gt;A -->
+<g id="edge3" class="edge">
+<title>alpha-&gt;A</title>
+<path fill="none" stroke="#000000" d="M69.5196,-254.6621C62.4876,-245.4564 53.5653,-233.7764 45.7117,-223.4953"/>
+<polygon fill="#000000" stroke="#000000" points="48.2828,-221.0953 39.431,-215.2733 42.72,-225.3446 48.2828,-221.0953"/>
+</g>
+<!-- L -->
+<g id="node5" class="node">
+<title>L</title>
+<ellipse fill="none" stroke="#000000" cx="82" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="82" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#000000">L</text>
+</g>
+<!-- alpha&#45;&gt;L -->
+<g id="edge4" class="edge">
+<title>alpha-&gt;L</title>
+<path fill="none" stroke="#000000" d="M82,-252.9833C82,-221.4877 82,-156.1909 82,-118.5061"/>
+<polygon fill="#000000" stroke="#000000" points="85.5001,-118.2124 82,-108.2125 78.5001,-118.2125 85.5001,-118.2124"/>
+</g>
+<!-- C -->
+<g id="node6" class="node">
+<title>C</title>
+<ellipse fill="none" stroke="#000000" cx="120" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="120" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">C</text>
+</g>
+<!-- beta&#45;&gt;C -->
+<g id="edge5" class="edge">
+<title>beta-&gt;C</title>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M169.1884,-252.8049C160.0398,-209.1331 136.7886,-98.1417 125.8532,-45.9408"/>
+<polygon fill="#000000" stroke="#000000" points="129.2532,-45.1002 123.7771,-36.0303 122.4019,-46.5355 129.2532,-45.1002"/>
+</g>
+<!-- E -->
+<g id="node7" class="node">
+<title>E</title>
+<ellipse fill="none" stroke="#000000" cx="192" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="192" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">E</text>
+</g>
+<!-- beta&#45;&gt;E -->
+<g id="edge6" class="edge">
+<title>beta-&gt;E</title>
+<path fill="none" stroke="#000000" d="M174.3664,-252.8049C177.6393,-209.2243 185.9467,-98.6049 189.8771,-46.2685"/>
+<polygon fill="#000000" stroke="#000000" points="193.3872,-46.2643 190.6459,-36.0303 186.4068,-45.74 193.3872,-46.2643"/>
+</g>
+<!-- B -->
+<g id="node8" class="node">
+<title>B</title>
+<ellipse fill="none" stroke="#000000" cx="264" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="264" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">B</text>
+</g>
+<!-- beta&#45;&gt;B -->
+<g id="edge7" class="edge">
+<title>beta-&gt;B</title>
+<path fill="none" stroke="#000000" d="M179.3989,-253.2095C195.063,-209.6599 235.4174,-97.466 254.1612,-45.354"/>
+<polygon fill="#000000" stroke="#000000" points="257.5169,-46.3653 257.6081,-35.7708 250.9301,-43.996 257.5169,-46.3653"/>
+</g>
+</g>
+</svg>

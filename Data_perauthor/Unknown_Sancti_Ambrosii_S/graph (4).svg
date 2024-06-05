@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="476pt" height="404pt" viewBox="0.00 0.00 476.43 404.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 400)">
+<title>%0</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-400 472.4313,-400 472.4313,4 -4,4"/>
+<!-- omega -->
+<g id="node1" class="node">
+<title>omega</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="198" cy="-378" rx="27" ry="18"/>
+<text text-anchor="middle" x="198" y="-373.8" font-family="Times,serif" font-size="14.00" fill="#000000">ω</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node">
+<title>1</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="99" cy="-306" rx="27" ry="18"/>
+</g>
+<!-- omega&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>omega-&gt;1</title>
+<path fill="none" stroke="#000000" d="M179.3789,-364.4574C164.3065,-353.4956 142.8746,-337.9088 125.9313,-325.5864"/>
+<polygon fill="#000000" stroke="#000000" points="127.6836,-322.5331 117.5376,-319.4819 123.5664,-328.1943 127.6836,-322.5331"/>
+</g>
+<!-- 2 -->
+<g id="node3" class="node">
+<title>2</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="198" cy="-306" rx="27" ry="18"/>
+</g>
+<!-- omega&#45;&gt;2 -->
+<g id="edge2" class="edge">
+<title>omega-&gt;2</title>
+<path fill="none" stroke="#000000" d="M198,-359.8314C198,-352.131 198,-342.9743 198,-334.4166"/>
+<polygon fill="#000000" stroke="#000000" points="201.5001,-334.4132 198,-324.4133 194.5001,-334.4133 201.5001,-334.4132"/>
+</g>
+<!-- sigma -->
+<g id="node4" class="node">
+<title>sigma</title>
+<ellipse fill="none" stroke="#000000" cx="298" cy="-306" rx="27" ry="18"/>
+<text text-anchor="middle" x="298" y="-301.8" font-family="Times,serif" font-size="14.00" fill="#000000">σ</text>
+</g>
+<!-- omega&#45;&gt;sigma -->
+<g id="edge3" class="edge">
+<title>omega-&gt;sigma</title>
+<path fill="none" stroke="#000000" d="M216.8092,-364.4574C232.1302,-353.4263 253.9566,-337.7113 271.1211,-325.3528"/>
+<polygon fill="#000000" stroke="#000000" points="273.5427,-327.9221 279.613,-319.2387 269.4525,-322.2414 273.5427,-327.9221"/>
+</g>
+<!-- pi -->
+<g id="node5" class="node">
+<title>pi</title>
+<ellipse fill="none" stroke="#000000" cx="27" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="27" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">π</text>
+</g>
+<!-- 1&#45;&gt;pi -->
+<g id="edge4" class="edge">
+<title>1-&gt;pi</title>
+<path fill="none" stroke="#000000" d="M83.7307,-290.7307C73.803,-280.803 60.6847,-267.6847 49.5637,-256.5637"/>
+<polygon fill="#000000" stroke="#000000" points="51.7933,-253.8436 42.2473,-249.2473 46.8436,-258.7933 51.7933,-253.8436"/>
+</g>
+<!-- rho -->
+<g id="node6" class="node">
+<title>rho</title>
+<ellipse fill="none" stroke="#000000" cx="99" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="99" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">ρ</text>
+</g>
+<!-- 1&#45;&gt;rho -->
+<g id="edge5" class="edge">
+<title>1-&gt;rho</title>
+<path fill="none" stroke="#000000" d="M99,-287.8314C99,-280.131 99,-270.9743 99,-262.4166"/>
+<polygon fill="#000000" stroke="#000000" points="102.5001,-262.4132 99,-252.4133 95.5001,-262.4133 102.5001,-262.4132"/>
+</g>
+<!-- gamma -->
+<g id="node7" class="node">
+<title>gamma</title>
+<ellipse fill="none" stroke="#000000" cx="171" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="171" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">γ</text>
+</g>
+<!-- 2&#45;&gt;gamma -->
+<g id="edge6" class="edge">
+<title>2-&gt;gamma</title>
+<path fill="none" stroke="#000000" d="M191.3258,-288.2022C188.2524,-280.0064 184.5384,-270.1024 181.1305,-261.0145"/>
+<polygon fill="#000000" stroke="#000000" points="184.3858,-259.7274 177.5974,-251.593 177.8315,-262.1853 184.3858,-259.7274"/>
+</g>
+<!-- B -->
+<g id="node8" class="node">
+<title>B</title>
+<ellipse fill="none" stroke="#000000" cx="243" cy="-234" rx="27" ry="18"/>
+<text text-anchor="middle" x="243" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#000000">B</text>
+</g>
+<!-- 2&#45;&gt;B -->
+<g id="edge7" class="edge">
+<title>2-&gt;B</title>
+<path fill="none" stroke="#000000" d="M208.437,-289.3008C213.9235,-280.5224 220.7686,-269.5703 226.9163,-259.7339"/>
+<polygon fill="#000000" stroke="#000000" points="229.9751,-261.4436 232.3071,-251.1086 224.0391,-257.7336 229.9751,-261.4436"/>
+</g>
+<!-- tauone -->
+<g id="node9" class="node">
+<title>tauone</title>
+<ellipse fill="none" stroke="#000000" cx="267" cy="-162" rx="27" ry="18"/>
+<text text-anchor="middle" x="267" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#000000">τ1</text>
+</g>
+<!-- sigma&#45;&gt;tauone -->
+<g id="edge8" class="edge">
+<title>sigma-&gt;tauone</title>
+<path fill="none" stroke="#000000" d="M294.2708,-288.0583C290.4796,-269.885 284.4104,-240.9716 279,-216 277.1698,-207.5527 275.1433,-198.3707 273.2847,-190.0146"/>
+<polygon fill="#000000" stroke="#000000" points="276.6416,-188.9872 271.0478,-179.9895 269.8097,-190.5118 276.6416,-188.9872"/>
+</g>
+<!-- constitutumconstantini -->
+<g id="node10" class="node">
+<title>constitutumconstantini</title>
+<ellipse fill="none" stroke="#000000" cx="367" cy="-18" rx="101.3627" ry="18"/>
+<text text-anchor="middle" x="367" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">constitutum constantini</text>
+</g>
+<!-- sigma&#45;&gt;constitutumconstantini -->
+<g id="edge9" class="edge">
+<title>sigma-&gt;constitutumconstantini</title>
+<path fill="none" stroke="#000000" stroke-dasharray="5,2" d="M302.3163,-287.9843C314.7077,-236.2634 350.2959,-87.7213 362.6854,-36.0089"/>
+</g>
+<!-- 3 -->
+<g id="node11" class="node">
+<title>3</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="221" cy="-90" rx="27" ry="18"/>
+</g>
+<!-- tauone&#45;&gt;3 -->
+<g id="edge10" class="edge">
+<title>tauone-&gt;3</title>
+<path fill="none" stroke="#000000" d="M256.3311,-145.3008C250.6414,-136.3952 243.5223,-125.2524 237.1684,-115.307"/>
+<polygon fill="#000000" stroke="#000000" points="239.9445,-113.1513 231.6111,-106.6087 234.0456,-116.92 239.9445,-113.1513"/>
+</g>
+<!-- tautwo -->
+<g id="node12" class="node">
+<title>tautwo</title>
+<ellipse fill="none" stroke="#000000" cx="149" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="149" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">τ2</text>
+</g>
+<!-- 3&#45;&gt;tautwo -->
+<g id="edge11" class="edge">
+<title>3-&gt;tautwo</title>
+<path fill="none" stroke="#000000" d="M205.7307,-74.7307C195.803,-64.803 182.6847,-51.6847 171.5637,-40.5637"/>
+<polygon fill="#000000" stroke="#000000" points="173.7933,-37.8436 164.2473,-33.2473 168.8436,-42.7933 173.7933,-37.8436"/>
+</g>
+<!-- tauthree -->
+<g id="node13" class="node">
+<title>tauthree</title>
+<ellipse fill="none" stroke="#000000" cx="221" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="221" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">τ3</text>
+</g>
+<!-- 3&#45;&gt;tauthree -->
+<g id="edge12" class="edge">
+<title>3-&gt;tauthree</title>
+<path fill="none" stroke="#000000" d="M221,-71.8314C221,-64.131 221,-54.9743 221,-46.4166"/>
+<polygon fill="#000000" stroke="#000000" points="224.5001,-46.4132 221,-36.4133 217.5001,-46.4133 224.5001,-46.4132"/>
+</g>
+</g>
+</svg>

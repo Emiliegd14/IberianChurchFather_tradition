@@ -1,0 +1,40 @@
+digraph {
+
+   autograph -> alpha;
+   alpha-> beta;
+   beta-> gamma;
+   gamma->H;
+   H->O;
+   A->Hm;
+   beta->delta;
+   delta->deltaprime;
+   deltaprime->B;
+   B->C;
+   H->A;
+
+
+    
+    autograph [label="autograph", color=grey];
+    alpha [label="α", color=grey];
+    beta [label="β", color=grey];
+
+    gamma [label="γ", color=grey];
+    delta [label="δ", color=grey];
+    deltaprime [label="δ'", color=grey];
+
+ 
+    H [label="(H)"];
+
+
+    A [label="(A)"];
+    Hm [label="Hm"];
+    O [label="(O)"];
+
+
+    B [label="B"];
+    C [label="C"];
+   
+}
+
+
+

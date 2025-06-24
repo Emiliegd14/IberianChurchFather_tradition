@@ -1,0 +1,19 @@
+digraph {
+
+    capitalomega -> omega;
+    omega -> R;
+    R-> G;
+    G-> P;
+    
+
+
+    capitalomega [color="grey", label="Ω"];
+    omega[color="grey", label="ω"]; 
+    R[label="R"]
+    G[label="G"]
+    P[label="P"]
+
+
+graph [style=invis, splines=true];
+
+}

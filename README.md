@@ -44,7 +44,8 @@ pip install -r requirements_stemmata.txt
 pip install -r requirements_donnees.txt
 
 
-## Méthode 1 : Modélisation probabiliste avec le modèle des espèces non-vues
+
+## Premières analyses exploratoires des donnéesModélisation probabiliste avec le modèle des espèces non-vues
 
 Cette méthode s’appuie sur l’article de référence :  
 *"Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"* (2021)  

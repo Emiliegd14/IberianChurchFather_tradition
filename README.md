@@ -42,7 +42,7 @@ pip install -r requirements_stemmata.txt
 
 # Pour exécuter les notebooks loi_puissance.ipynb et traitement_doublons.ipynb
 pip install -r requirements_donnees.txt
-```bash ... ```
+```
 
 
 ## Premières analyses exploratoires des donnéesModélisation probabiliste avec le modèle des espèces non-vues
@@ -64,6 +64,6 @@ Pour l’installer, il suffit d’exécuter la commande `pip install` et d’ins
 ```bash
 pip install copia
 pip install -r unseen_species/requirements_copia.txt
-```bash ... ```
+```
 
 

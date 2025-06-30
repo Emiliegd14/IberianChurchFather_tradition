@@ -1,6 +1,7 @@
 # IberianChurchFather_tradition
 
-Ce projet vise à utiliser des méthodes computationnelles pour estimer les taux de perte et de survie des œuvres et des manuscrits des Pères de l'Église de la péninsule ibérique, couvrant la période du IVe au VIe siècle.
+Ce projet vise à utiliser des méthodes computationnelles pour estimer modéliser le processus de transmission textuelle des textes des Pères de l'Eglise du IIIe au Ve siècles en Péninsule Ibérique. 
+Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" à l'École Nationale des Chartes-PSL.
 
 ## Ouvrage de Référence
 
@@ -8,11 +9,26 @@ Ce projet vise à utiliser des méthodes computationnelles pour estimer les taux
 
 ## Méthodes Employées
 
-- Applications de modèles d'espèces invisibles : estimateurs de richesse (Chao1, Jackknife, ACE)
+- Applications de modèles d'espèces invisibles : estimateurs de richesse et indicateurs de diversité.
+- Modèles stochastiques de naissance-mort : modèles de Poisson, modèle de Yule, inférence bayésienne.
 - 
-## Contexte de l'Étude
+### Description des données
 
-Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" à l'École Nationale des Chartes-PSL.
+- **wits_table_tot.csv**  
+  Ce fichier est un jeu de données complet qui rassemble l’ensemble des témoins et manuscrits recensés pour chaque texte. Il contient également plusieurs métadonnées importantes, telles que la datation, la foliation, les informations sur le manuscrit, la date de l’auteur, etc. Ce tableau permet d’avoir une vue d’ensemble structurée sur les différentes sources textuelles et leurs caractéristiques.
+
+- **corpus_stemmata**  
+  Ce dossier contient deux sous-dossiers principaux :  
+  - **stemmata_modified**  
+  - **stemmata_nomodified**  
+  
+  Chacun de ces sous-dossiers regroupe des dossiers dédiés à chaque auteur. Ces dossiers comprennent plusieurs fichiers relatifs aux stemmata :  
+  - Des métadonnées au format `.txt` décrivant les stemmata  
+  - Les stemmata représentés au format `.gv` (Graphviz), permettant de visualiser la structure des arbres de transmission  
+  - Les stemmata sous format `.png`, images des graphes pour une consultation rapide et visuelle  
+
+Cette organisation facilite l’étude comparative des stemmata avec ou sans modifications, tout en fournissant des données complémentaires utiles à leur analyse.
+
 
 ## Premières analyses exploratoires des données
 
@@ -45,7 +61,7 @@ pip install -r requirements_donnees.txt
 ```
 
 
-## Premières analyses exploratoires des donnéesModélisation probabiliste avec le modèle des espèces non-vues
+## Modélisation probabiliste avec le modèle des espèces non-vues
 
 Cette méthode s’appuie sur l’article de référence :  
 *"Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"* (2021)  

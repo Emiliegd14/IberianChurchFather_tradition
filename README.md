@@ -14,6 +14,36 @@ Ce projet vise à utiliser des méthodes computationnelles pour estimer les taux
 
 Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" à l'École Nationale des Chartes-PSL.
 
+## Premières analyses exploratoires des données
+
+Cette analyse est structurée autour de trois notebooks Jupyter :
+
+- `loi_puissance.ipynb`
+- `stemmata_analysis.ipynb`
+- `traitement_doublons.ipynb` 
+
+Chaque notebook s'appuie sur des bibliothèques Python spécifiques, listées dans deux fichiers `requirements`.
+
+### Dépendances
+
+- Pour le notebook `stemmata_analysis.ipynb` :  
+  → Utiliser les dépendances listées dans `requirements_stemmata.txt`.
+
+- Pour les notebooks `loi_puissance.ipynb` et `traitement_doublons.ipynb` :  
+  → Utiliser les dépendances listées dans `requirements_donnees.txt`.
+
+### Installation et étapes
+
+Il est recommandé d’utiliser un environnement virtuel (`venv` ou `conda`) pour isoler les dépendances.
+
+```bash
+# Pour exécuter le notebook stemmata_analysis.ipynb
+pip install -r requirements_stemmata.txt
+
+# Pour exécuter les notebooks loi_puissance.ipynb et traitement_doublons.ipynb
+pip install -r requirements_donnees.txt
+
+
 ## Méthode 1 : Modélisation probabiliste avec le modèle des espèces non-vues
 
 Cette méthode s’appuie sur l’article de référence :  
@@ -24,12 +54,11 @@ par Mike Kestemont, Folgert Karsdorp, Elisabeth de Bruijn, Matthew Driscoll, Kat
 - [forgotten-books](https://github.com/mikekestemont/forgotten-books)  
 - [copia](https://github.com/mikekestemont/copia)
 
-## Installation
+## Installation et étapes
 
 **Copia** est un logiciel distribué sous forme de module Python.  
 Pour l’installer, il suffit d’exécuter la commande `pip install` et d’installer les dépendances listées dans le fichier `requirements_copia.txt`, situé dans le dossier `unseen_species` de ce dépôt.
 
-### Étapes :
 
 ```bash
 pip install copia

@@ -1,6 +1,6 @@
 # IberianChurchFather_tradition
 
-Ce projet vise à utiliser des méthodes computationnelles pour estimer modéliser le processus de transmission textuelle des textes des Pères de l'Eglise du IIIe au Ve siècles en Péninsule Ibérique. 
+Ce projet vise à utiliser des méthodes computationnelles pour estimer modéliser le processus de transmission textuelle des textes des Pères de l'Eglise du IIIe au Ve siècles en péninsule Ibérique. 
 Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" à l'École Nationale des Chartes-PSL.
 
 ## Ouvrage de Référence
@@ -26,8 +26,6 @@ Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" 
   - Des métadonnées au format `.txt` décrivant les stemmata  
   - Les stemmata représentés au format `.gv` (Graphviz), permettant de visualiser la structure des arbres de transmission  
   - Les stemmata sous format `.png`, images des graphes pour une consultation rapide et visuelle  
-
-Cette organisation facilite l’étude comparative des stemmata avec ou sans modifications, tout en fournissant des données complémentaires utiles à leur analyse.
 
 
 ## Premières analyses exploratoires des données

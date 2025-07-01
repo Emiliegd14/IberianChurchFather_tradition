@@ -17,11 +17,11 @@ Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" 
 Voici les dossiers principaux présents dans ce projet :
 
 ```
-├── data
+├── data 
 ├── exploration_donnees
-├── memoire
-├── stochastic_processus
-└── unseen_species
+├── memoire 
+├── stochastic_processus 
+└── unseen_species 
 ```
 ### Description des dossiers
 

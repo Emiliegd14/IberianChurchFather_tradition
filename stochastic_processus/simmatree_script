@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# ───────────────────────────────
+# Script pour installer et exécuter SimMAtree
+# ───────────────────────────────
+
+# Étape 1 : Cloner le dépôt
+echo "CloOn clone dépôt SimMAtree..."
+git clone https://github.com/LostMa-ERC/simMAtree.git
+cd simMAtree || exit
+
+# Étape 2 : Installer SimMAtree
+echo "On installe en espérant que tout se passe bien"
+pip install .
+
+# Étape 3 : Vérifier l'installation
+echo "TCheck installation"
+simmatree-test
+
+# Étape 4 : Créer un fichier de configuration
+echo "Création de experiment.yml ou un autre nom"
+cat <<EOF > experiment.yml
+generator:
+  name: YuleAbundance
+  config:
+    n_init: 500
+    Nact: 4600
+    Ninact: 1400
+    max_pop: 50000
+
+
+
+inference:
+  name: SBI
+  config:
+    method: NPE
+    num_simulations: 30000
+    num_rounds: 1
+    random_seed: 42
+    num_samples: 15000
+    num_workers: 10
+    device: cpu
+EOF
+
+
+
+# Étape 6 : On fait de l'inférence sur nos données
+echo "On lance inférence et on attend"
+simmatree -c experiment.yml infer -i synthetic_data.csv -o results/
+
+echo "Fini ! Les résultats sont dans le dossier 'results/'"

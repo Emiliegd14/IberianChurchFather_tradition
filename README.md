@@ -11,7 +11,7 @@ Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" 
 
 - Applications de modèles d'espèces invisibles : estimateurs de richesse et indicateurs de diversité.
 - Modèles stochastiques de naissance-mort : modèles de Poisson, modèle de Yule, inférence bayésienne.
-- 
+  
 ### Description des données
 
 - **wits_table_tot.csv**  
@@ -62,7 +62,7 @@ pip install -r requirements_donnees.txt
 ## Modélisation probabiliste avec le modèle des espèces non-vues
 
 Cette méthode s’appuie sur l’article de référence :  
-*"Forgotten Books: The Application of Unseen Species Models to the Survival of Culture"* (2021)  
+"Forgotten Books: The Application of Unseen Species Models to the Survival of Culture" (2021)  
 par Mike Kestemont, Folgert Karsdorp, Elisabeth de Bruijn, Matthew Driscoll, Katarzyna A. Kapitan, Pádraig Ó Macháin, Daniel Sawyer, Remco Sleiderink & Anne Chao.
 
 ### Dépôts GitHub associés :  
@@ -79,5 +79,34 @@ Pour l’installer, il suffit d’exécuter la commande `pip install` et d’ins
 pip install copia
 pip install -r unseen_species/requirements_copia.txt
 ```
+
+## Modélisation stochastique de processus de naissance et de mort
+
+Cette méthode s’appuie sur l'article de référence :  
+CAMPS (Jean-Baptiste), CHRISTENSEN (Kelly), GODREAU (Ulysse) et MOINS (Théo), « One Tree
+to Yule Them All ? reflexions on intertextuality and text transmission », École nationale
+des chartes, Université PSL (2024), Preprint or working paper.
+
+### Dépôt GitHub associé :  
+- https://github.com/LostMa-ERC/simMAtree
+
+## Installation et étapes
+
+Certains prérequis sont nécessaires :
+- Python 3.8+
+- `git`
+- Un environnement virtuel (optionnel mais vivement recommandé!)
+
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/LostMa-ERC/simMAtree.git
+
+# Aller dans le dossier du projet
+cd simMAtree
+
+# Installer le package localement
+pip install .
+
 
 

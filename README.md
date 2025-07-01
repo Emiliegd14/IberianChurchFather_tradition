@@ -115,7 +115,7 @@ des chartes, Université PSL (2024), Preprint or working paper.
 ## Installation et étapes
 
 Certains prérequis sont nécessaires :
-- Python 3.8+
+- Python 3.12
 - `git`
 - Un environnement virtuel (optionnel mais vivement recommandé!)
 

@@ -11,6 +11,27 @@ Ces analyses sont menées dans le cadre d'un Master en "Humanités Numériques" 
 
 - Applications de modèles d'espèces invisibles : estimateurs de richesse et indicateurs de diversité.
 - Modèles stochastiques de naissance-mort : modèles de Poisson, modèle de Yule, inférence bayésienne.
+
+  ## Arborescence
+
+Voici les dossiers principaux présents dans ce projet :
+
+├── data
+├── exploration_donnees
+├── memoire
+├── stochastic_processus
+└── unseen_species
+
+### Description des dossiers
+
+- `data` : Contient les jeux de données utilisés dans les analyses.
+- `exploration_donnees` : Scripts et notebooks destinés à l’exploration et à la visualisation initiale des données.
+- `memoire` : Documents et fichiers relatifs à la rédaction du mémoire.
+- `stochastic_processus` : Script et résultats de cette analyse.
+- `unseen_species` : Script et résultats de cette analyse.
+
+---
+
   
 ### Description des données
 

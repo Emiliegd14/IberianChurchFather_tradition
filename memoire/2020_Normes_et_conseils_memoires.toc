@@ -1,0 +1,54 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Résumé}{iii}{section*.1}%
+\contentsline {chapter}{Abstract}{iii}{section*.2}%
+\contentsline {chapter}{Remerciements}{v}{section*.3}%
+\contentsline {chapter}{Introduction}{vii}{chapter*.4}%
+\contentsline {section}{\numberline {0.1}Enjeux descriptifs du corpus}{1}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Critères de sélection du corpus}{1}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Sources principales}{3}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Précisions lexicales et terminologiques}{4}{subsection.0.1.3}%
+\contentsline {paragraph}{La francisation des anthroponymes}{4}{section*.6}%
+\contentsline {subsection}{\numberline {0.1.4}Structure et contenu de la base de données}{4}{subsection.0.1.4}%
+\contentsline {subsubsection}{Description de la base de données}{4}{section*.7}%
+\contentsline {subsubsection}{Le cas des manuscrits identifiés par des côtes artificielles}{5}{section*.8}%
+\contentsline {subsection}{\numberline {0.1.5}Enjeu de granularité : Coexistence de témoins dans un même manuscrit}{6}{subsection.0.1.5}%
+\contentsline {section}{\numberline {0.2}Premières analyses exploratoires du corpus}{12}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Distribution des données}{12}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {0.2.2}Aperçu philologique et computationnel des \textit {stemmata codicum} de notre corpus}{15}{subsection.0.2.2}%
+\contentsline {subsubsection}{Présentation et ajustements des \textit {stemmata codicum}}{15}{section*.14}%
+\contentsline {subsubsection}{Analyse computationnelle des propriétés stemmatiques}{17}{section*.15}%
+\contentsline {subsection}{\numberline {0.2.3}Conclusion partielle}{20}{subsection.0.2.3}%
+\contentsline {part}{I\hspace {1em}Vers une écologie des textes et des témoins : modélisation de leur perte et de leur survie à l’aide d’outils issus de la biologie}{1}{part.1}%
+\contentsline {chapter}{\numberline {1}Méthode des espèces non vues}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Les données d'abondance}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Les estimateurs de richesse}{6}{section.1.2}%
+\contentsline {paragraph}{Chao1}{6}{section*.19}%
+\contentsline {paragraph}{iChao1}{7}{section*.20}%
+\contentsline {paragraph}{ACE}{7}{section*.21}%
+\contentsline {paragraph}{Egghe \& Proot}{7}{section*.22}%
+\contentsline {paragraph}{Jackknife}{7}{section*.23}%
+\contentsline {section}{\numberline {1.3}La courbe d'accumulation des espèces}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Le nombre de Hill}{14}{section.1.4}%
+\contentsline {paragraph}{Indice de Shannon-Weaver}{14}{section*.29}%
+\contentsline {paragraph}{Indice de Simpson}{14}{section*.30}%
+\contentsline {paragraph}{Indice de Hill}{14}{section*.31}%
+\contentsline {paragraph}{Application de l'indice de Hill sur nos données empiriques}{17}{section*.33}%
+\contentsline {paragraph}{Application de l'indice de Hill sur nos données corrigées des biais liées aux espèce observées}{17}{section*.34}%
+\contentsline {section}{\numberline {1.5}L'équitabilité}{17}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Conclusion partielle}{18}{section.1.6}%
+\contentsline {part}{II\hspace {1em} À la recherche du manuscrit perdu : parcours stochastiques d’un texte}{21}{part.2}%
+\contentsline {chapter}{\numberline {2}Approches stochastiques de la transmission}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Processus de naissance et de mort}{23}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}En quoi ce modèle est-il applicable au phénomène de transmission textuelle et manuscrite?}{23}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Deux stratégies : exploration empirique et inférence}{25}{subsection.2.1.2}%
+\contentsline {subsubsection}{Ajustement des paramètres}{26}{section*.36}%
+\contentsline {subsection}{\numberline {2.1.3}Résultats de l'inférence bayésienne sur nos données modélisées à l’aide d’un processus de naissance-mort de type Poisson}{27}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Résultats de l'inférence bayésienne sur nos données modélisées à l’aide d’un processus de naissance-mort de type Yule}{30}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Conclusion partielle}{32}{subsection.2.1.5}%
+\contentsline {chapter}{\numberline {A}Arbres stemmatiques}{41}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Arbres stemmatiques représentant un biais pour les analyses computationnelles}{41}{section.A.1}%
+\contentsline {chapter}{\numberline {B}Les estimateurs de richesse}{45}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Critères d'estimation des différents estimateurs de richesse}{45}{section.B.1}%
+\contentsline {chapter}{\numberline {C}Annexes numériques}{47}{appendix.C}%
+\contentsline {chapter}{Table des figures}{49}{appendix*.46}%
+\contentsline {chapter}{Table des matières}{51}{appendix*.47}%

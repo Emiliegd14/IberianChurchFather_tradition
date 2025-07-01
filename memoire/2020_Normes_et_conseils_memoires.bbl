@@ -1,0 +1,3522 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Agati2009}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58db444bf47edb662fa5216ab67d8c49}{%
+           family={Agati},
+           familyi={A\bibinitperiod},
+           given={Maria\bibnamedelima Luisa},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {L'Erma di Bretschneider}%
+      }
+      \strng{namehash}{58db444bf47edb662fa5216ab67d8c49}
+      \strng{fullhash}{58db444bf47edb662fa5216ab67d8c49}
+      \strng{bibnamehash}{58db444bf47edb662fa5216ab67d8c49}
+      \strng{authorbibnamehash}{58db444bf47edb662fa5216ab67d8c49}
+      \strng{authornamehash}{58db444bf47edb662fa5216ab67d8c49}
+      \strng{authorfullhash}{58db444bf47edb662fa5216ab67d8c49}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{series}{Studia archaeologica}
+      \field{title}{Il libro manoscritto da Oriente a Occidente: per una codicologia comparata}
+      \field{volume}{166}
+      \field{year}{2009}
+      \true{nocite}
+    \endentry
+    \entry{Alstott_2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6fb2022bd2b68617f700518b8377776d}{%
+           family={Alstott},
+           familyi={A\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a5528818865dbabbeb704ddc9b3100e}{%
+           family={Bullmore},
+           familyi={B\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e331bc37e19a5126a777b4d220c01b0f}{%
+           family={Plenz},
+           familyi={P\bibinitperiod},
+           given={Dietmar},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science (PLoS)}%
+      }
+      \strng{namehash}{825e50bb653722f3b95fc2603e15f037}
+      \strng{fullhash}{825e50bb653722f3b95fc2603e15f037}
+      \strng{bibnamehash}{825e50bb653722f3b95fc2603e15f037}
+      \strng{authorbibnamehash}{825e50bb653722f3b95fc2603e15f037}
+      \strng{authornamehash}{825e50bb653722f3b95fc2603e15f037}
+      \strng{authorfullhash}{825e50bb653722f3b95fc2603e15f037}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{1}
+      \field{title}{Powerlaw: a python package for analysis of heavy-tailed distributions}
+      \field{volume}{9}
+      \field{year}{2014}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0085777
+      \endverb
+    \endentry
+    \entry{Galland}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=653a4c7f4d166ba5b1d2bc719964b289}{%
+           family={Andrea},
+           familyi={A\bibinitperiod},
+           given={Galland},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Florence}%
+      }
+      \list{publisher}{1}{%
+        {Jean-Baptiste Albritius Jérôme Imprimeur}%
+      }
+      \strng{namehash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \strng{fullhash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \strng{bibnamehash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \strng{authorbibnamehash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \strng{authornamehash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \strng{authorfullhash}{653a4c7f4d166ba5b1d2bc719964b289}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{Bibliotheca veterum Patrum antiquorumque scriptorum ecclesiasticorum}
+      \field{volume}{5}
+      \field{year}{1761}
+    \endentry
+    \entry{bady_paleographie}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dfda48d634d341e0cfd90358b3dec57}{%
+           family={Bady},
+           familyi={B\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Sources Chrétiennes-HISOMA}%
+      }
+      \strng{namehash}{6dfda48d634d341e0cfd90358b3dec57}
+      \strng{fullhash}{6dfda48d634d341e0cfd90358b3dec57}
+      \strng{bibnamehash}{6dfda48d634d341e0cfd90358b3dec57}
+      \strng{authorbibnamehash}{6dfda48d634d341e0cfd90358b3dec57}
+      \strng{authornamehash}{6dfda48d634d341e0cfd90358b3dec57}
+      \strng{authorfullhash}{6dfda48d634d341e0cfd90358b3dec57}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://sourceschretiennes.org/sites/default/files/documents/paleo_grecque_cours_GBady.pdf}}
+      \field{note}{Document PDF disponible en ligne}
+      \field{title}{Cours de paléographie grecque}
+      \field{year}{2001}
+      \true{nocite}
+    \endentry
+    \entry{Dutillet}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=765dd86ed87d546528694852a04595a6}{%
+           family={Barcelone},
+           familyi={B\bibinitperiod},
+           given={Pacien},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=407b23f80281620c34bf81335ed07a61}{%
+           family={J.},
+           familyi={J\bibinitperiod},
+           given={Du\bibnamedelima Tillet},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{765dd86ed87d546528694852a04595a6}
+      \strng{fullhash}{765dd86ed87d546528694852a04595a6}
+      \strng{bibnamehash}{765dd86ed87d546528694852a04595a6}
+      \strng{authorbibnamehash}{765dd86ed87d546528694852a04595a6}
+      \strng{authornamehash}{765dd86ed87d546528694852a04595a6}
+      \strng{authorfullhash}{765dd86ed87d546528694852a04595a6}
+      \strng{editorbibnamehash}{407b23f80281620c34bf81335ed07a61}
+      \strng{editornamehash}{407b23f80281620c34bf81335ed07a61}
+      \strng{editorfullhash}{407b23f80281620c34bf81335ed07a61}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sm}
+      \field{title}{Paraenesis ad Poenitentam, De baptismo, Epistulae duae ad Sympronianum Novatianum, tractatus adversus Novatianos}
+      \field{year}{1538}
+    \endentry
+    \entry{bardon2014litterature}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5db6c51e5c1013f1bcb0b1521dc132bb}{%
+           family={Bardon},
+           familyi={B\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Klincksieck}%
+      }
+      \strng{namehash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \strng{fullhash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \strng{bibnamehash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \strng{authorbibnamehash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \strng{authornamehash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \strng{authorfullhash}{5db6c51e5c1013f1bcb0b1521dc132bb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2\textsuperscript{e} éd.}
+      \field{title}{La littérature latine inconnue}
+      \field{volume}{1 \& 2}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{biau}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d905131276d4431aea7b505a2b27db2f}{%
+           family={Biau},
+           familyi={B\bibinitperiod},
+           given={Gérard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=079cb28e463866db49fa98a4be5f776f}{%
+           family={Cérou},
+           familyi={C\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ffcdb5f42c08e56cba38060b5ba2a8c}{%
+           family={Guyader},
+           familyi={G\bibinitperiod},
+           given={Arnaud},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Association des Publications de l’Institut Henri Poincaré}%
+      }
+      \strng{namehash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \strng{fullhash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \strng{bibnamehash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \strng{authorbibnamehash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \strng{authornamehash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \strng{authorfullhash}{c1a0f51abc5187efcc33fe3ac33640d9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annales de l’Institut Henri Poincaré - Probabilités et Statistiques}
+      \field{number}{1}
+      \field{title}{New insights into approximate bayesian computation}
+      \field{volume}{51}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{376\bibrangedash 403}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1214/13-AIHP590
+      \endverb
+      \verb{urlraw}
+      \verb https://www.numdam.org/item/AIHPB_2015__51_1_376_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.numdam.org/item/AIHPB_2015__51_1_376_0.pdf
+      \endverb
+    \endentry
+    \entry{burnham1978closed}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ec1ef9e3eefbf57e7cc87118c7edf6c3}{%
+           family={Burnham},
+           familyi={B\bibinitperiod},
+           given={K.\bibnamedelimi P.},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=308fdd7dd4665096531aa766a197e71b}{%
+           family={Overton},
+           familyi={O\bibinitperiod},
+           given={W.\bibnamedelimi S.},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09d0495264e287dd3070c3092fe0053a}
+      \strng{fullhash}{09d0495264e287dd3070c3092fe0053a}
+      \strng{bibnamehash}{09d0495264e287dd3070c3092fe0053a}
+      \strng{authorbibnamehash}{09d0495264e287dd3070c3092fe0053a}
+      \strng{authornamehash}{09d0495264e287dd3070c3092fe0053a}
+      \strng{authorfullhash}{09d0495264e287dd3070c3092fe0053a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biometrika}
+      \field{number}{3}
+      \field{title}{Estimation of the size of a closed population when capture probabilities vary among animals}
+      \field{volume}{65}
+      \field{year}{1978}
+      \field{pages}{625\bibrangedash 633}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.2307/2335915
+      \endverb
+    \endentry
+    \entry{burnham1978}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4e02129f7e7189c3173cfa3455cce981}{%
+           family={Burnham\bibnamedelimb Kenneth\bibnamedelima P.},
+           familyi={B\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Overton\bibnamedelimb William\bibnamedelima S.},
+           giveni={O\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4e02129f7e7189c3173cfa3455cce981}
+      \strng{fullhash}{4e02129f7e7189c3173cfa3455cce981}
+      \strng{bibnamehash}{4e02129f7e7189c3173cfa3455cce981}
+      \strng{authorbibnamehash}{4e02129f7e7189c3173cfa3455cce981}
+      \strng{authornamehash}{4e02129f7e7189c3173cfa3455cce981}
+      \strng{authorfullhash}{4e02129f7e7189c3173cfa3455cce981}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Biometrika}
+      \field{title}{Estimation of the size of a closed population when capture probabilities vary among animals}
+      \field{volume}{65}
+      \field{year}{1978}
+      \true{nocite}
+      \field{pages}{623\bibrangedash 633}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1093/biomet/65.3.625
+      \endverb
+    \endentry
+    \entry{louernos_diversite}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7ebb01810c6d726d58b24ef262c72e2e}{%
+           family={Calu},
+           familyi={C\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \strng{fullhash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \strng{bibnamehash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \strng{authorbibnamehash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \strng{authornamehash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \strng{authorfullhash}{7ebb01810c6d726d58b24ef262c72e2e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{note}{Blog \textit{Passeur de Nature}, consulté en 2025}
+      \field{title}{Les indices de diversité en écologie des écosystèmes}
+      \field{year}{2019}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://passeurdenature.fr/
+      \endverb
+      \verb{url}
+      \verb https://passeurdenature.fr/
+      \endverb
+    \endentry
+    \entry{simmatree_github}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e143a3ac045d19eb15c01f5756511ee}{%
+           family={Moins},
+           familyi={M\bibinitperiod},
+           given={Théo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a6b1dd68146f1916a9a23aa91b260b2}{%
+           family={Kelly},
+           familyi={K\bibinitperiod},
+           given={Christensen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \strng{fullhash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \strng{bibnamehash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \strng{authorbibnamehash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \strng{authornamehash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \strng{authorfullhash}{56b38f74c68de2dcd3084f03d39b2a14}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{howpublished}{\url{https://github.com/LostMa-ERC/simMAtree}}
+      \field{title}{SimMAtree}
+      \field{year}{2024}
+    \endentry
+    \entry{Camps2022}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c79d8f693e4b732cd9dd8a4c51ca1639}{%
+           family={Randon-Furling},
+           familyi={R\bibinithyphendelim F\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Antwerp, Belgium}%
+      }
+      \strng{namehash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \strng{fullhash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \strng{bibnamehash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \strng{authorbibnamehash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \strng{authornamehash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \strng{authorfullhash}{68c1ae21705ec5daf0d5ee501ffc1944}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{CHR 2022: Computational Humanities Research Conference, Computational Humanities Research}
+      \field{title}{Lost manuscripts and extinct texts: A dynamic model of cultural transmission}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://halshs.archives-ouvertes.fr/halshs-03827975
+      \endverb
+      \verb{url}
+      \verb https://halshs.archives-ouvertes.fr/halshs-03827975
+      \endverb
+    \endentry
+    \entry{extinction_texts_github}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c79d8f693e4b732cd9dd8a4c51ca1639}{%
+           family={Randon-Furling},
+           familyi={R\bibinithyphendelim F\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84d093b219ea3e6bbd110e80ef41bb80}{%
+           family={Godreau},
+           familyi={G\bibinitperiod},
+           given={Ulysse},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{fullhash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{bibnamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authorbibnamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authornamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authorfullhash}{bb234d290473b9a6bbd0c3062816fae5}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/LostMa-ERC/ExtinctionOfTexts}}
+      \field{title}{ExtinctionOfTexts}
+      \field{year}{2023}
+    \endentry
+    \entry{camps_transmission_2025}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c79d8f693e4b732cd9dd8a4c51ca1639}{%
+           family={Randon-Furling},
+           familyi={R\bibinithyphendelim F\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84d093b219ea3e6bbd110e80ef41bb80}{%
+           family={Godreau},
+           familyi={G\bibinitperiod},
+           given={Ulysse},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{fullhash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{bibnamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authorbibnamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authornamehash}{bb234d290473b9a6bbd0c3062816fae5}
+      \strng{authorfullhash}{bb234d290473b9a6bbd0c3062816fae5}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{arXiv:2505.19246 [physics]}
+      \field{title}{On the transmission of texts: written cultures as complex systems}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.48550/arXiv.2505.19246
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2505.19246
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2505.19246
+      \endverb
+    \endentry
+    \entry{openstemmata}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=275c02bbeae7a43e5999b83de8848096}{%
+           family={Riva},
+           familyi={R\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9870dc9449e8198f103860fc17f27ed8}
+      \strng{fullhash}{9870dc9449e8198f103860fc17f27ed8}
+      \strng{bibnamehash}{9870dc9449e8198f103860fc17f27ed8}
+      \strng{authorbibnamehash}{9870dc9449e8198f103860fc17f27ed8}
+      \strng{authornamehash}{9870dc9449e8198f103860fc17f27ed8}
+      \strng{authorfullhash}{9870dc9449e8198f103860fc17f27ed8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{howpublished}{\url{https://github.com/OpenStemmata/database}}
+      \field{title}{Open Stemmata: Database}
+      \field{year}{2022}
+    \endentry
+    \entry{yule12tree}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=16d4f02e5493261103bfb3611317d21d}{%
+           family={Camps},
+           familyi={C\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=924d6687f037178387f3d71baf1c72f5}{%
+           family={Christensen},
+           familyi={C\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84d093b219ea3e6bbd110e80ef41bb80}{%
+           family={Godreau},
+           familyi={G\bibinitperiod},
+           given={Ulysse},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e143a3ac045d19eb15c01f5756511ee}{%
+           family={Moins},
+           familyi={M\bibinitperiod},
+           given={Théo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9d7052d664cf380d51a9ea2c5035f117}
+      \strng{fullhash}{1cb7f779d3050641525a46bf22a4e302}
+      \strng{bibnamehash}{9d7052d664cf380d51a9ea2c5035f117}
+      \strng{authorbibnamehash}{9d7052d664cf380d51a9ea2c5035f117}
+      \strng{authornamehash}{9d7052d664cf380d51a9ea2c5035f117}
+      \strng{authorfullhash}{1cb7f779d3050641525a46bf22a4e302}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{École nationale des chartes, Université PSL}
+      \field{note}{Preprint or working paper}
+      \field{title}{One Tree to Yule Them All? reflexions on intertextuality and text transmission}
+      \field{year}{2024}
+    \endentry
+    \entry{chao1984nonparametric}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{fullhash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{bibnamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authorbibnamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authornamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authorfullhash}{d9e2039c6f24906d2866a881a5be343e}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{journaltitle}{Scandinavian Journal of Statistics}
+      \field{title}{Non-parametric estimation of the number of classes in a population}
+      \field{volume}{11}
+      \field{year}{1984}
+      \field{pages}{265\bibrangedash 270}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.2307/4615964
+      \endverb
+    \endentry
+    \entry{chao1987capture}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{fullhash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{bibnamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authorbibnamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authornamehash}{d9e2039c6f24906d2866a881a5be343e}
+      \strng{authorfullhash}{d9e2039c6f24906d2866a881a5be343e}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{journaltitle}{Biometrics}
+      \field{title}{Estimating the population size for capture-recapture data with unequal catchability}
+      \field{volume}{43}
+      \field{year}{1987}
+      \true{nocite}
+      \field{pages}{783\bibrangedash 791}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.2307/2531532
+      \endverb
+    \endentry
+    \entry{chao2012methods}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=bda27c23ba0ff6747ebd64ae315111d8}{%
+           family={Chiu},
+           familyi={C\bibinitperiod},
+           given={C.\bibnamedelimi H.},
+           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f775f6b5b6a3348f3f5ab0a994fdb58b}{%
+           family={Balakrishnan},
+           familyi={B\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{fullhash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{bibnamehash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{authorbibnamehash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{authornamehash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{authorfullhash}{7bd92f27b7ce6289cd9a7ac5a0c7fb4c}
+      \strng{editorbibnamehash}{f775f6b5b6a3348f3f5ab0a994fdb58b}
+      \strng{editornamehash}{f775f6b5b6a3348f3f5ab0a994fdb58b}
+      \strng{editorfullhash}{f775f6b5b6a3348f3f5ab0a994fdb58b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Methods and Applications of Statistics in the Atmospheric and Earth Sciences}
+      \field{title}{Methods and applications of statistics in the atmospheric and earth sciences}
+      \field{year}{2012}
+      \true{nocite}
+      \field{pages}{76\bibrangedash 111}
+      \range{pages}{36}
+    \endentry
+    \entry{chao1992coverage}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41d73540e7fb39536868115c6447b320}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Shen-Ming},
+           giveni={S\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7de05ce6571d633c1c2c2c97183c3074}
+      \strng{fullhash}{7de05ce6571d633c1c2c2c97183c3074}
+      \strng{bibnamehash}{7de05ce6571d633c1c2c2c97183c3074}
+      \strng{authorbibnamehash}{7de05ce6571d633c1c2c2c97183c3074}
+      \strng{authornamehash}{7de05ce6571d633c1c2c2c97183c3074}
+      \strng{authorfullhash}{7de05ce6571d633c1c2c2c97183c3074}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Statistical Association}
+      \field{number}{417}
+      \field{title}{Estimating the number of classes via sample coverage}
+      \field{volume}{87}
+      \field{year}{1992}
+      \field{pages}{210\bibrangedash 217}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2307/2290471
+      \endverb
+    \endentry
+    \entry{chao1993stopping}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=42bd7dbca242132c3cdd682529b02b69}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={M.-C.},
+           giveni={M\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2de74d7ed4058e3f51219f1e22c85ea5}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={M.\bibnamedelimi C.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bef743734d1689081fb09b34f01ab05f}
+      \strng{fullhash}{bef743734d1689081fb09b34f01ab05f}
+      \strng{bibnamehash}{bef743734d1689081fb09b34f01ab05f}
+      \strng{authorbibnamehash}{bef743734d1689081fb09b34f01ab05f}
+      \strng{authornamehash}{bef743734d1689081fb09b34f01ab05f}
+      \strng{authorfullhash}{bef743734d1689081fb09b34f01ab05f}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{journaltitle}{Biometrika}
+      \field{title}{Stopping rules and estimation for recapture debugging with unequal failure rates}
+      \field{volume}{80}
+      \field{year}{1993}
+      \true{nocite}
+      \field{pages}{193\bibrangedash 201}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1093/biomet/80.1.193
+      \endverb
+    \endentry
+    \entry{Charlet}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=99a16cc9b1e96327bcae50060ac73930}{%
+           family={Charlet},
+           familyi={C\bibinitperiod},
+           given={Jean-Louis},
+           giveni={J\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99a16cc9b1e96327bcae50060ac73930}
+      \strng{fullhash}{99a16cc9b1e96327bcae50060ac73930}
+      \strng{bibnamehash}{99a16cc9b1e96327bcae50060ac73930}
+      \strng{authorbibnamehash}{99a16cc9b1e96327bcae50060ac73930}
+      \strng{authornamehash}{99a16cc9b1e96327bcae50060ac73930}
+      \strng{authorfullhash}{99a16cc9b1e96327bcae50060ac73930}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bulletin de l’Association Guillaume Budé : Lettres d’humanité}
+      \field{number}{45}
+      \field{title}{La poésie de Prudence dans l'esthétique de son temps}
+      \field{year}{1986}
+      \field{pages}{368\bibrangedash 375}
+      \range{pages}{8}
+    \endentry
+    \entry{chiesa2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9894835fcbf107523537813e238d09ee}{%
+           family={Chiesa},
+           familyi={C\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bologne}%
+      }
+      \list{publisher}{1}{%
+        {Pàtron}%
+      }
+      \strng{namehash}{9894835fcbf107523537813e238d09ee}
+      \strng{fullhash}{9894835fcbf107523537813e238d09ee}
+      \strng{bibnamehash}{9894835fcbf107523537813e238d09ee}
+      \strng{authorbibnamehash}{9894835fcbf107523537813e238d09ee}
+      \strng{authornamehash}{9894835fcbf107523537813e238d09ee}
+      \strng{authorfullhash}{9894835fcbf107523537813e238d09ee}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elementi di critica testuale,}
+      \field{year}{2012}
+      \true{nocite}
+    \endentry
+    \entry{chiu2014improved}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=056ceb541808932692a9a3f298540d03}{%
+           family={Chiu},
+           familyi={C\bibinitperiod},
+           given={Chun-Huo},
+           giveni={C\bibinithyphendelim H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=e099cbf6ef346b372362f46651dd4e88}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yi-Ting},
+           giveni={Y\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdbe3c95be06af06a5f38374c2031aa3}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Bruno\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9e2039c6f24906d2866a881a5be343e}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e77693e101b3bd0a1fd0b7616539135d}
+      \strng{fullhash}{c0d0bd05f43ce369ad73ab98b1870589}
+      \strng{bibnamehash}{e77693e101b3bd0a1fd0b7616539135d}
+      \strng{authorbibnamehash}{e77693e101b3bd0a1fd0b7616539135d}
+      \strng{authornamehash}{e77693e101b3bd0a1fd0b7616539135d}
+      \strng{authorfullhash}{c0d0bd05f43ce369ad73ab98b1870589}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biometrics}
+      \field{number}{3}
+      \field{title}{An improved nonparametric lower bound of species richness via a modified good-turing frequency formula}
+      \field{volume}{70}
+      \field{year}{2014}
+      \field{pages}{671\bibrangedash 682}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/biom.12200
+      \endverb
+    \endentry
+    \entry{cisne}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b92794bf29d5a1f97e5973a87b13e79}{%
+           family={Cisne},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \strng{fullhash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \strng{bibnamehash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \strng{authorbibnamehash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \strng{authornamehash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \strng{authorfullhash}{3b92794bf29d5a1f97e5973a87b13e79}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Science}
+      \field{number}{5713}
+      \field{title}{How science survived: medieval manuscripts “demography” and classic texts extinction}
+      \field{volume}{307}
+      \field{year}{2005}
+      \field{pages}{1305\bibrangedash 1307}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.1104718
+      \endverb
+    \endentry
+    \entry{Claidiere2009}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93a1b85fdf37cbe0a911c043dfb2c405}{%
+           family={Claidière},
+           familyi={C\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Université Pierre et Marie Curie - Paris VI}%
+      }
+      \list{location}{1}{%
+        {France}%
+      }
+      \strng{namehash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \strng{fullhash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \strng{bibnamehash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \strng{authorbibnamehash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \strng{authornamehash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \strng{authorfullhash}{93a1b85fdf37cbe0a911c043dfb2c405}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Théories darwiniennes de l'évolution culturelle : modèles et mécanismes}
+      \field{type}{PhD Thesis}
+      \field{year}{2009}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://hal.science/tel-00431055
+      \endverb
+      \verb{url}
+      \verb https://hal.science/tel-00431055
+      \endverb
+    \endentry
+    \entry{collins}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3d93ededcc6d13195045bb2a258c8662}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi L.\bibnamedelimi S.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df3c889d04034b81df55e6ef984b11d5}{%
+           family={Schlyter},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi C.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Stockholm}%
+      }
+      \list{publisher}{1}{%
+        {Z. Haeggström}%
+      }
+      \strng{namehash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \strng{fullhash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \strng{bibnamehash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \strng{authorbibnamehash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \strng{authornamehash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \strng{authorfullhash}{96a38a7a9c66f4917e94ec3135fcfe31}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{title}{Corpus juris sueo-gotorum antiqui}
+      \field{year}{1827}
+    \endentry
+    \entry{TradPat}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=025f77ccea16155c89344d70b4964402}{%
+           family={Colombi[dir.]},
+           familyi={C\bibinitperiod},
+           given={Emmanuela},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Turnhout}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{025f77ccea16155c89344d70b4964402}
+      \strng{fullhash}{025f77ccea16155c89344d70b4964402}
+      \strng{bibnamehash}{025f77ccea16155c89344d70b4964402}
+      \strng{authorbibnamehash}{025f77ccea16155c89344d70b4964402}
+      \strng{authornamehash}{025f77ccea16155c89344d70b4964402}
+      \strng{authorfullhash}{025f77ccea16155c89344d70b4964402}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{series}{Corpus Christianorum. Claves - Subsidia}
+      \field{subtitle}{Scriptores Hispanae}
+      \field{title}{Tradition Patrum I}
+      \field{volume}{4}
+      \field{year}{2015}
+    \endentry
+    \entry{Courcelle}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff86c4ef23650d229727f4bc0858894a}{%
+           family={Courcelle},
+           familyi={C\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff86c4ef23650d229727f4bc0858894a}
+      \strng{fullhash}{ff86c4ef23650d229727f4bc0858894a}
+      \strng{bibnamehash}{ff86c4ef23650d229727f4bc0858894a}
+      \strng{authorbibnamehash}{ff86c4ef23650d229727f4bc0858894a}
+      \strng{authornamehash}{ff86c4ef23650d229727f4bc0858894a}
+      \strng{authorfullhash}{ff86c4ef23650d229727f4bc0858894a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{R.E.A}
+      \field{number}{56}
+      \field{title}{Un nouveau traité d’Eutrope, père Aquitain vers l’an 400}
+      \field{year}{1954}
+      \field{pages}{377\bibrangedash 390}
+      \range{pages}{14}
+    \endentry
+    \entry{Cunchala}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3288c17a6ee116e73c5528b3d6aab12b}{%
+           family={Cunchala},
+           familyi={C\bibinitperiod},
+           given={Aashrit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \strng{fullhash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \strng{bibnamehash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \strng{authorbibnamehash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \strng{authornamehash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \strng{authorfullhash}{3288c17a6ee116e73c5528b3d6aab12b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv:2405.01397[mathematics]}
+      \field{title}{A basic overview of various stochastic approaches to financial modeling with examples}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.48550/arXiv.2405.01397
+      \endverb
+    \endentry
+    \entry{curtius2013european}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=17b01465678f03f41ec12074c4dc6698}{%
+           family={Curtius},
+           familyi={C\bibinitperiod},
+           given={Ernst\bibnamedelima Robert},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Princeton, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{17b01465678f03f41ec12074c4dc6698}
+      \strng{fullhash}{17b01465678f03f41ec12074c4dc6698}
+      \strng{bibnamehash}{17b01465678f03f41ec12074c4dc6698}
+      \strng{authorbibnamehash}{17b01465678f03f41ec12074c4dc6698}
+      \strng{authornamehash}{17b01465678f03f41ec12074c4dc6698}
+      \strng{authorfullhash}{17b01465678f03f41ec12074c4dc6698}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{European Literature and the Latin Middle Ages}
+      \field{year}{2013}
+    \endentry
+    \entry{receptionpaulinprudence}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=eea2a708dd01dd069d6e071325db4dc1}{%
+           family={Cutino},
+           familyi={C\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7456775990bb0ff2bbd9664fbea14e3}{%
+           family={Goldlust},
+           familyi={G\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e51fe40a015926c49852b86cabc920c}{%
+           family={Zarini[dir.]},
+           familyi={Z\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Université de Franche-Comté, Besançon}%
+      }
+      \strng{namehash}{f293c3af96c0c8eaef815b080d4bb192}
+      \strng{fullhash}{f293c3af96c0c8eaef815b080d4bb192}
+      \strng{bibnamehash}{f293c3af96c0c8eaef815b080d4bb192}
+      \strng{authorbibnamehash}{f293c3af96c0c8eaef815b080d4bb192}
+      \strng{authornamehash}{f293c3af96c0c8eaef815b080d4bb192}
+      \strng{authorfullhash}{f293c3af96c0c8eaef815b080d4bb192}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{endday}{13}
+      \field{endmonth}{10}
+      \field{endyear}{2023}
+      \field{month}{10}
+      \field{note}{Colloque organisé les 12–13 octobre 2023}
+      \field{title}{La réception de Paulin de Nole et de Prudence dans la littérature latine tardive et médiévale}
+      \field{year}{2023}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Darwin1859}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d0e4f38206db228a7b870a49f6f52db2}{%
+           family={Darwin},
+           familyi={D\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {John Murray}%
+      }
+      \strng{namehash}{d0e4f38206db228a7b870a49f6f52db2}
+      \strng{fullhash}{d0e4f38206db228a7b870a49f6f52db2}
+      \strng{bibnamehash}{d0e4f38206db228a7b870a49f6f52db2}
+      \strng{authorbibnamehash}{d0e4f38206db228a7b870a49f6f52db2}
+      \strng{authornamehash}{d0e4f38206db228a7b870a49f6f52db2}
+      \strng{authorfullhash}{d0e4f38206db228a7b870a49f6f52db2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life}
+      \field{year}{1859}
+    \endentry
+    \entry{CPL}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d58306518276856800e1a69c9a3e927a}{%
+           family={Dekkers[dir.]},
+           familyi={D\bibinitperiod},
+           given={Eligius},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Turnhout}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{d58306518276856800e1a69c9a3e927a}
+      \strng{fullhash}{d58306518276856800e1a69c9a3e927a}
+      \strng{bibnamehash}{d58306518276856800e1a69c9a3e927a}
+      \strng{authorbibnamehash}{d58306518276856800e1a69c9a3e927a}
+      \strng{authornamehash}{d58306518276856800e1a69c9a3e927a}
+      \strng{authorfullhash}{d58306518276856800e1a69c9a3e927a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{3\textsuperscript{e} édition}
+      \field{gender}{sm}
+      \field{series}{Corpus Christianorum. Series Latina}
+      \field{shorttitle}{Clavis Patrum Latinorum}
+      \field{title}{Clavis Patrum Latinorum}
+      \field{year}{1995}
+    \endentry
+    \entry{Hispana}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8cbd4017e10a576e0bdebe46994b57ce}{%
+           family={Díez},
+           familyi={D\bibinitperiod},
+           given={Gonzalo\bibnamedelima Martínez},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac7c96c00afc24cb4f0d79a7aa96e3a6}{%
+           family={Barbero},
+           familyi={B\bibinitperiod},
+           given={Frederico\bibnamedelima Rodríguez},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {CSIC, Instituto Enrique Flórez}%
+      }
+      \strng{namehash}{0f982d18552790b42696bfe4a6d7dec9}
+      \strng{fullhash}{0f982d18552790b42696bfe4a6d7dec9}
+      \strng{bibnamehash}{0f982d18552790b42696bfe4a6d7dec9}
+      \strng{authorbibnamehash}{0f982d18552790b42696bfe4a6d7dec9}
+      \strng{authornamehash}{0f982d18552790b42696bfe4a6d7dec9}
+      \strng{authorfullhash}{0f982d18552790b42696bfe4a6d7dec9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{title}{La colección canónica hispana}
+      \field{volume}{I}
+      \field{year}{1966}
+    \endentry
+    \entry{dorfbauer2011dialogus}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f14ab1ce8dde331bb44f05ef2b63c31f}{%
+           family={Dorfbauer},
+           familyi={D\bibinitperiod},
+           given={Lukas\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \strng{fullhash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \strng{bibnamehash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \strng{authorbibnamehash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \strng{authornamehash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \strng{authorfullhash}{f14ab1ce8dde331bb44f05ef2b63c31f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Revue Bénédictine}
+      \field{title}{Eine Untersuchung des pseudoaugustinischen \textit{Dialogus Quaestionum} (CPPM, 2, 151)}
+      \field{volume}{121}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{241\bibrangedash 315}
+      \range{pages}{75}
+    \endentry
+    \entry{durrett2016essentials}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dbdc52e17e1d92513591b9fd1361d03b}{%
+           family={Durrett},
+           familyi={D\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Cham}%
+      }
+      \strng{namehash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \strng{fullhash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \strng{bibnamehash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \strng{authorbibnamehash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \strng{authornamehash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \strng{authorfullhash}{dbdc52e17e1d92513591b9fd1361d03b}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{series}{Springer Texts in Statistics}
+      \field{title}{Essentials of Stochastic Processes}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1007/978-3-319-45614-0
+      \endverb
+    \endentry
+    \entry{duval}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=62cd86eb8a521c9873d86003ddcfca30}{%
+           family={Duval},
+           familyi={D\bibinitperiod},
+           given={Frédéric},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {École nationale des chartes}%
+      }
+      \strng{namehash}{62cd86eb8a521c9873d86003ddcfca30}
+      \strng{fullhash}{62cd86eb8a521c9873d86003ddcfca30}
+      \strng{bibnamehash}{62cd86eb8a521c9873d86003ddcfca30}
+      \strng{authorbibnamehash}{62cd86eb8a521c9873d86003ddcfca30}
+      \strng{authornamehash}{62cd86eb8a521c9873d86003ddcfca30}
+      \strng{authorfullhash}{62cd86eb8a521c9873d86003ddcfca30}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Les mots de l’édition de textes}
+      \field{year}{2015}
+    \endentry
+    \entry{egghe2007lost}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8072f36c037b6a15162bef62b4a06324}{%
+           family={Egghe},
+           familyi={E\bibinitperiod},
+           given={Leo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d1598b791492099330ffb5e846aa261}{%
+           family={Proot},
+           familyi={P\bibinitperiod},
+           given={Goran},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \strng{fullhash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \strng{bibnamehash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \strng{authorbibnamehash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \strng{authornamehash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \strng{authorfullhash}{143d3961fe2beb1e826c1d3472a8dfef}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Informetrics}
+      \field{title}{The estimation of the number of lost multi-copy documents: A new type of informetrics theory}
+      \field{year}{2007}
+      \field{pages}{257\bibrangedash 268}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.joi.2007.02.003
+      \endverb
+    \endentry
+    \entry{Schmitz2025}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3e5fb90e33324b4e9a2c3c9bc84d6a5d}{%
+           family={Elena\bibnamedelima Schmitz},
+           familyi={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Johannes\bibnamedelima Rahmann},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \strng{fullhash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \strng{bibnamehash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \strng{authorbibnamehash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \strng{authornamehash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \strng{authorfullhash}{3e5fb90e33324b4e9a2c3c9bc84d6a5d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Briefings in Bioinformatics}
+      \field{number}{2}
+      \field{title}{A comprehensive review and evaluation of species richness estimation}
+      \field{volume}{26}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1093/bib/bbaf158
+      \endverb
+    \endentry
+    \entry{Schulz1994}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=505720e37a9bf8695d2510eb74f0ecfa}{%
+           family={Eliberritanus},
+           familyi={E\bibinitperiod},
+           given={Gregorius},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fc4ad8f682e3195a5c849c2ee8d5da46}{%
+           family={Schulz-Flügel},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Freiburg im Breisgau}%
+      }
+      \list{publisher}{1}{%
+        {Herder}%
+      }
+      \strng{namehash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{fullhash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{bibnamehash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{authorbibnamehash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{authornamehash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{authorfullhash}{505720e37a9bf8695d2510eb74f0ecfa}
+      \strng{editorbibnamehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{editornamehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{editorfullhash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sf}
+      \field{series}{Vetus Latina. Die Reste der altlateinischen Bibel. Aus der Geschichte der lateinischen Bibel}
+      \field{title}{Epithalamium sive Explanatio in Canticis canticorum}
+      \field{volume}{26}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{graphviz}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=845fd32b28ac53cb7fb50d8cb56d73a4}{%
+           family={Ellson},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba3d7e7e2849e2a229a8895fa414ae30}{%
+           family={Gansner},
+           familyi={G\bibinitperiod},
+           given={Emden},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c50bf772f00bd5d0fe133a2d300bf385}{%
+           family={Koutsofios},
+           familyi={K\bibinitperiod},
+           given={Eleftherios},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db950751dffc52cc76400e51ec36b01f}{%
+           family={North},
+           familyi={N\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=34aa22cd42398269251c1064bc6748db}{%
+           family={Woodhull},
+           familyi={W\bibinitperiod},
+           given={Gordon},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{60e79394635539bc2ef1718e6bfc2ab9}
+      \strng{fullhash}{f7f7e434222d51c56abbea0bf8693882}
+      \strng{bibnamehash}{60e79394635539bc2ef1718e6bfc2ab9}
+      \strng{authorbibnamehash}{60e79394635539bc2ef1718e6bfc2ab9}
+      \strng{authornamehash}{60e79394635539bc2ef1718e6bfc2ab9}
+      \strng{authorfullhash}{f7f7e434222d51c56abbea0bf8693882}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{month}{01}
+      \field{title}{Graphviz and Dynagraph - static and dynamic graph drawing tools}
+      \field{year}{2004}
+      \field{pages}{127\bibrangedash 148}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/978-3-642-18638-7_6
+      \endverb
+    \endentry
+    \entry{Elowitz}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=172d917eef79d80ede6ac97ef3cfb264}{%
+           family={Elowitz},
+           familyi={E\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cff54519aaf69cd3a95abd91fc0a1b2}{%
+           family={Levine},
+           familyi={L\bibinitperiod},
+           given={Arnold\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=232fe6f0d8549f2fe8607cc9ff28dda1}{%
+           family={Siggia},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=654a2b16a78ef3f2363bd043c12ee9d9}{%
+           family={Swain},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{fullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \strng{bibnamehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{authorbibnamehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{authornamehash}{afcecdeeae6ebf9ab43768333ff87600}
+      \strng{authorfullhash}{3c1d4497b80d1bcc8a01e34b70d75cfa}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science}
+      \field{number}{5584}
+      \field{title}{Stochastic gene expression in a single cell}
+      \field{volume}{297}
+      \field{year}{2002}
+      \field{pages}{1183\bibrangedash 1186}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1070919
+      \endverb
+    \endentry
+    \entry{MGH2}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ed83748dcc58de0ff2edf6397e612fa}{%
+           family={Erforschung\bibnamedelimb des\bibnamedelima Mittelalters},
+           familyi={E\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Deutsches\bibnamedelima Institut},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0,
+           prefix={für},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=64637103302daeea656d7a9b8a6ed49e}{%
+           family={Drosen},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \strng{fullhash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \strng{bibnamehash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \strng{authorbibnamehash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \strng{authornamehash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \strng{authorfullhash}{b3c900aa4cfd826986eb8471d5970e9c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Scriptores antiquissimi}
+      \field{shorttitle}{Monumenta Germaniæ Historica}
+      \field{title}{Monumenta Germaniæ Historica}
+      \field{volume}{2}
+      \field{year}{1879}
+    \endentry
+    \entry{MGH14}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0ed83748dcc58de0ff2edf6397e612fa}{%
+           family={Erforschung\bibnamedelimb des\bibnamedelima Mittelalters},
+           familyi={E\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Deutsches\bibnamedelima Institut},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0,
+           prefix={für},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=cf81d1c7fb4766d97f73f4ae35e54ab2}{%
+           family={Vollmer},
+           familyi={V\bibinitperiod},
+           given={Frederic},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Munich}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{1a0a305f1127a495303b1102c152c031}
+      \strng{fullhash}{1a0a305f1127a495303b1102c152c031}
+      \strng{bibnamehash}{1a0a305f1127a495303b1102c152c031}
+      \strng{authorbibnamehash}{1a0a305f1127a495303b1102c152c031}
+      \strng{authornamehash}{1a0a305f1127a495303b1102c152c031}
+      \strng{authorfullhash}{1a0a305f1127a495303b1102c152c031}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Scriptores antiquissimi}
+      \field{shorttitle}{Monumenta Germaniæ Historica}
+      \field{title}{Monumenta Germaniæ Historica}
+      \field{volume}{14}
+      \field{year}{1905}
+    \endentry
+    \entry{fama}{misc}{}
+      \list{institution}{1}{%
+        {Institut de Recherche et d'Histoire des Textes (IRHT)}%
+      }
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://fama.irht.cnrs.fr/}}
+      \field{note}{Consulté en 2025}
+      \field{title}{FAMA: Base de données de manuscrits et sources patristiques}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{fortunat1996vie}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bea43830cf419dc0bb88d2242e34b981}{%
+           family={Fortunat},
+           familyi={F\bibinitperiod},
+           given={Venance},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=07cea22a42f30c88cf517c0d1942ffe8}{%
+           family={Quesnel},
+           familyi={Q\bibinitperiod},
+           given={Solange},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Les Belles Lettres}%
+      }
+      \strng{namehash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{fullhash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{bibnamehash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{authorbibnamehash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{authornamehash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{authorfullhash}{bea43830cf419dc0bb88d2242e34b981}
+      \strng{editorbibnamehash}{07cea22a42f30c88cf517c0d1942ffe8}
+      \strng{editornamehash}{07cea22a42f30c88cf517c0d1942ffe8}
+      \strng{editorfullhash}{07cea22a42f30c88cf517c0d1942ffe8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sf}
+      \field{title}{Vie de Saint-Martin}
+      \field{year}{1996}
+      \true{nocite}
+    \endentry
+    \entry{Friedrich}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=46f47890d6be97aa9ef9382c8ca64021}{%
+           family={Friedrich},
+           familyi={F\bibinitperiod},
+           given={Johann},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Nördlingen}%
+      }
+      \strng{namehash}{46f47890d6be97aa9ef9382c8ca64021}
+      \strng{fullhash}{46f47890d6be97aa9ef9382c8ca64021}
+      \strng{bibnamehash}{46f47890d6be97aa9ef9382c8ca64021}
+      \strng{authorbibnamehash}{46f47890d6be97aa9ef9382c8ca64021}
+      \strng{authornamehash}{46f47890d6be97aa9ef9382c8ca64021}
+      \strng{authorfullhash}{46f47890d6be97aa9ef9382c8ca64021}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{Die Constantinische Schenkung}
+      \field{year}{1889}
+      \true{nocite}
+    \endentry
+    \entry{Gericke}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eeb0b6741ee18d4bd04a4d719b919543}{%
+           family={Gericke},
+           familyi={G\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \strng{fullhash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \strng{bibnamehash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \strng{authorbibnamehash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \strng{authornamehash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \strng{authorfullhash}{eeb0b6741ee18d4bd04a4d719b919543}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Zeitschrift der Savigny-Stiftung für Rechtsgeschichte}
+      \field{title}{Das Glaubensbekenntnis der «Konstantinischen Schenkung»}
+      \field{volume}{47}
+      \field{year}{1961}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 76}
+      \range{pages}{76}
+    \endentry
+    \entry{collectionAT}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=70bb6e0dfc69c2b9293ffd07416594a5}{%
+           family={Gioanni},
+           familyi={G\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25426d86d1798f894c6ad8c908d60489}{%
+           family={Grévin},
+           familyi={G\bibinitperiod},
+           given={Benoît},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {École Française de Rome}%
+      }
+      \strng{namehash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \strng{fullhash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \strng{bibnamehash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \strng{authorbibnamehash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \strng{authornamehash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \strng{authorfullhash}{5ba7c8e8d36bd9964e3f6e5c19a2f0c4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{series}{Publications de l'École française de Rome}
+      \field{subtitle}{Textes et représentations, VIe-XIVe siècles}
+      \field{title}{L’Antiquité tardive dans les collections médiévales : textes et représentations VIe-XIVe siècle}
+      \field{volume}{405}
+      \field{year}{2008}
+    \endentry
+    \entry{estimatingspecies}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=629cac53fa40fffc871ae225d24ce0a6}{%
+           family={Gotelli},
+           familyi={G\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94378af8e429f8b7e783d54d8bfdf94d}{%
+           family={Colwell},
+           familyi={C\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee6cd92d700e70062cd69de271182bf4}
+      \strng{fullhash}{ee6cd92d700e70062cd69de271182bf4}
+      \strng{bibnamehash}{ee6cd92d700e70062cd69de271182bf4}
+      \strng{authorbibnamehash}{ee6cd92d700e70062cd69de271182bf4}
+      \strng{authornamehash}{ee6cd92d700e70062cd69de271182bf4}
+      \strng{authorfullhash}{ee6cd92d700e70062cd69de271182bf4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Frontiers in Measuring Biodiversity}
+      \field{month}{01}
+      \field{title}{Estimating species richness}
+      \field{volume}{12}
+      \field{year}{2011}
+      \true{nocite}
+      \field{pages}{39\bibrangedash 54}
+      \range{pages}{16}
+    \endentry
+    \entry{Granado}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=539e9284f2235ce9894ecd1cd3cd2cee}{%
+           family={Granado},
+           familyi={G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53271994eb7313d90891715c8cdbdd68}{%
+           family={Epitalon},
+           familyi={E\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6ae84e8827c17d1c8b1c55757e0ef30}{%
+           family={Lestienne},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lyon}%
+      }
+      \list{publisher}{1}{%
+        {Les Sources Chrétiennes}%
+      }
+      \strng{namehash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \strng{fullhash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \strng{bibnamehash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \strng{authorbibnamehash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \strng{authornamehash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \strng{authorfullhash}{e6c3bd21c588e27c6659f0fdd79fa2e3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{subtitle}{Pacien de Barcelone}
+      \field{title}{Ecrits}
+      \field{year}{1995}
+    \endentry
+    \entry{green2004juvencus}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb480aa30a8cf29e679c848f941738b9}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Swansea}%
+      }
+      \list{publisher}{1}{%
+        {The Classical Press of Wales}%
+      }
+      \strng{namehash}{bb480aa30a8cf29e679c848f941738b9}
+      \strng{fullhash}{bb480aa30a8cf29e679c848f941738b9}
+      \strng{bibnamehash}{bb480aa30a8cf29e679c848f941738b9}
+      \strng{authorbibnamehash}{bb480aa30a8cf29e679c848f941738b9}
+      \strng{authornamehash}{bb480aa30a8cf29e679c848f941738b9}
+      \strng{authorfullhash}{bb480aa30a8cf29e679c848f941738b9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Latin Epic and Didactic Poetry: Genre, Tradition and Individuality}
+      \field{gender}{sm}
+      \field{title}{Approaching Christian Epic: The Preface of Juvencus}
+      \field{year}{2004}
+      \field{pages}{203\bibrangedash 222}
+      \range{pages}{20}
+    \endentry
+    \entry{repetauteursI}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9ad2fbadc3c5e7c2a66665b34d99da08}{%
+           family={Gryson},
+           familyi={G\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{fullhash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{bibnamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authorbibnamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authornamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authorfullhash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Répertoire des auteurs ecclésiastiques latins de l'antiquité chrétienne, Volume I}
+      \field{volume}{I}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{repetauteursII}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9ad2fbadc3c5e7c2a66665b34d99da08}{%
+           family={Gryson},
+           familyi={G\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{fullhash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{bibnamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authorbibnamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authornamehash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \strng{authorfullhash}{9ad2fbadc3c5e7c2a66665b34d99da08}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Répertoire des auteurs ecclésiastiques latins de l'antiquité chrétienne, Volume II}
+      \field{volume}{II}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+    \entry{Guericke}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=959b8fa29f667a4505b7ee7347e588ae}{%
+           family={Guericke},
+           familyi={G\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{959b8fa29f667a4505b7ee7347e588ae}
+      \strng{fullhash}{959b8fa29f667a4505b7ee7347e588ae}
+      \strng{bibnamehash}{959b8fa29f667a4505b7ee7347e588ae}
+      \strng{authorbibnamehash}{959b8fa29f667a4505b7ee7347e588ae}
+      \strng{authornamehash}{959b8fa29f667a4505b7ee7347e588ae}
+      \strng{authorfullhash}{959b8fa29f667a4505b7ee7347e588ae}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Zeitschrift der Savigny-Stiftung für Rechtsgeschichte}
+      \field{month}{01}
+      \field{title}{Das Glaubensbekenntnis der "Konstantinischen Schenkung"}
+      \field{volume}{78}
+      \field{year}{1961}
+      \field{pages}{1\bibrangedash 76}
+      \range{pages}{76}
+    \endentry
+    \entry{haigh}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c35ad5a30abf28c4e474803c4cbb13a}{%
+           family={Haigh},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e232d987bd524be8412c1cf1662edb50}{%
+           family={Hodson},
+           familyi={H\bibinitperiod},
+           given={F.\bibnamedelimi R.},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=03e70b2f1d829049152a9dc7ab24e499}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi G.},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=225f81eb5b14e505685d90635f3c4722}{%
+           family={Tautu},
+           familyi={T\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh}%
+      }
+      \list{publisher}{1}{%
+        {Edinburgh University Press}%
+      }
+      \strng{namehash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{fullhash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{bibnamehash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{authorbibnamehash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{authornamehash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{authorfullhash}{7c35ad5a30abf28c4e474803c4cbb13a}
+      \strng{editorbibnamehash}{563ac4e9d6af8bea99d084da96ab1c98}
+      \strng{editornamehash}{563ac4e9d6af8bea99d084da96ab1c98}
+      \strng{editorfullhash}{563ac4e9d6af8bea99d084da96ab1c98}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mathematics in the Archaeological and Historical Sciences}
+      \field{gender}{sm}
+      \field{title}{The Manuscript Linkage Problem}
+      \field{year}{1971}
+      \field{pages}{396\bibrangedash 400}
+      \range{pages}{5}
+    \endentry
+    \entry{heltshe1983jackknife}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca49a6038fbb1baa80533597c03a73d5}{%
+           family={Heltshe\bibnamedelima James},
+           familyi={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Forrester\bibnamedelimb Nancy\bibnamedelima E.},
+           giveni={F\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca49a6038fbb1baa80533597c03a73d5}
+      \strng{fullhash}{ca49a6038fbb1baa80533597c03a73d5}
+      \strng{bibnamehash}{ca49a6038fbb1baa80533597c03a73d5}
+      \strng{authorbibnamehash}{ca49a6038fbb1baa80533597c03a73d5}
+      \strng{authornamehash}{ca49a6038fbb1baa80533597c03a73d5}
+      \strng{authorfullhash}{ca49a6038fbb1baa80533597c03a73d5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Biometrics}
+      \field{title}{Estimating species richness using the jackknife procedure}
+      \field{volume}{39}
+      \field{year}{1983}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.2307/2530802
+      \endverb
+    \endentry
+    \entry{schmitz2025comprehensive}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=237e378fed7d8556a27818fb2d3148a3}{%
+           family={Johanna\bibnamedelimb Elena\bibnamedelima Schmitz},
+           familyi={J\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Sven\bibnamedelima Rahmann},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{237e378fed7d8556a27818fb2d3148a3}
+      \strng{fullhash}{237e378fed7d8556a27818fb2d3148a3}
+      \strng{bibnamehash}{237e378fed7d8556a27818fb2d3148a3}
+      \strng{authorbibnamehash}{237e378fed7d8556a27818fb2d3148a3}
+      \strng{authornamehash}{237e378fed7d8556a27818fb2d3148a3}
+      \strng{authorfullhash}{237e378fed7d8556a27818fb2d3148a3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Briefings in Bioinformatics}
+      \field{number}{2}
+      \field{title}{A comprehensive review and evaluation of species richness estimation}
+      \field{volume}{26}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1093/bib/bbaf158
+      \endverb
+    \endentry
+    \entry{karlin1975first}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a11e93e0362df64e6137422fd4265757}{%
+           family={Karlin},
+           familyi={K\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cbf5311af8c64b632cb715a8e7ab835}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Howard\bibnamedelima M.},
+           giveni={H\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{577c8710006e97f3f00d74bf298f6f5a}
+      \strng{fullhash}{577c8710006e97f3f00d74bf298f6f5a}
+      \strng{bibnamehash}{577c8710006e97f3f00d74bf298f6f5a}
+      \strng{authorbibnamehash}{577c8710006e97f3f00d74bf298f6f5a}
+      \strng{authornamehash}{577c8710006e97f3f00d74bf298f6f5a}
+      \strng{authorfullhash}{577c8710006e97f3f00d74bf298f6f5a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{title}{A First Course in Stochastic Processes}
+      \field{year}{1975}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1016/C2009-1-28569-8
+      \endverb
+    \endentry
+    \entry{kery}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=871f8eea3f01ca7196dc2cb16dad6e9c}{%
+           family={Kéry},
+           familyi={K\bibinitperiod},
+           given={Lotte},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {Catholic University of America Press}%
+      }
+      \strng{namehash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \strng{fullhash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \strng{bibnamehash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \strng{authorbibnamehash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \strng{authornamehash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \strng{authorfullhash}{871f8eea3f01ca7196dc2cb16dad6e9c}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{series}{History of medieval canon law}
+      \field{title}{Canonical Collections of the Early Middle Ages (ca. 400-1140). A bibliographical guide to the manuscripts and literature}
+      \field{volume}{1}
+      \field{year}{1999}
+    \endentry
+    \entry{kestemont}{article}{}
+      \name{author}{9}{}{%
+        {{un=2,uniquepart=given,hash=e9071be33440dfda9d851c8027a90a01}{%
+           family={Kestemont},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=901fb8cca64a3709c72a67597d538b8d}{%
+           family={Karsdorp},
+           familyi={K\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73be8939860d6e8666ed7b82f12f4f6f}{%
+           family={Bruijn},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=a57c704cad5757cff561068029426cde}{%
+           family={Driscoll},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=563a7f83afe0af534674f774a0331841}{%
+           family={Kapitan},
+           familyi={K\bibinitperiod},
+           given={K.\bibnamedelimi A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cbe84c7f85566c1ad99703f1df0c887}{%
+           family={Ó\bibnamedelima Macháin},
+           familyi={Ó\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f2f3cc8de065331c391929d7eb6d4d4}{%
+           family={Sawyer},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c46eb96927df1c1be5af4d42ce439a7}{%
+           family={Sleiderink},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=20d096aa1bbe1be6a6656270bbcea5f8}{%
+           family={Chao},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bc673aaa3575d39a6480c83e0afee38c}
+      \strng{fullhash}{ade30db1185073c93ae8e56928cbe02d}
+      \strng{bibnamehash}{bc673aaa3575d39a6480c83e0afee38c}
+      \strng{authorbibnamehash}{bc673aaa3575d39a6480c83e0afee38c}
+      \strng{authornamehash}{bc673aaa3575d39a6480c83e0afee38c}
+      \strng{authorfullhash}{ade30db1185073c93ae8e56928cbe02d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{journaltitle}{Science}
+      \field{title}{Forgotten books: The application of unseen species models to the survival of culture}
+      \field{volume}{375}
+      \field{year}{2022}
+      \field{pages}{765\bibrangedash 769}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.abl7655
+      \endverb
+    \endentry
+    \entry{copia_github}{misc}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=9d1ab665c2ba43842d5c50753eec480c}{%
+           family={Kestemont},
+           familyi={K\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=6f68e1a26b24a7ebfe52209d83699780}{%
+           family={Karsdorp},
+           familyi={K\bibinitperiod},
+           given={Folgert},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{fullhash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{bibnamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authorbibnamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authornamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authorfullhash}{84239ee2bfebfe973e54e970678d4d33}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{howpublished}{\url{https://github.com/mikekestemont/copia}}
+      \field{title}{Copia: Unseen species estimators for text survival models}
+      \field{year}{2020}
+    \endentry
+    \entry{fb_github}{misc}{}
+      \name{author}{2}{}{%
+        {{un=2,uniquepart=given,hash=9d1ab665c2ba43842d5c50753eec480c}{%
+           family={Kestemont},
+           familyi={K\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=2}}%
+        {{un=0,uniquepart=base,hash=6f68e1a26b24a7ebfe52209d83699780}{%
+           family={Karsdorp},
+           familyi={K\bibinitperiod},
+           given={Folgert},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{fullhash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{bibnamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authorbibnamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authornamehash}{84239ee2bfebfe973e54e970678d4d33}
+      \strng{authorfullhash}{84239ee2bfebfe973e54e970678d4d33}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{pm}
+      \field{howpublished}{\url{https://github.com/mikekestemont/forgotten-books}}
+      \field{title}{Forgotten books : The application of unseen species models to the survival of culture}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{Künstle}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ba839047b548bdbecaeb5ea8db6effe}{%
+           family={Künstle},
+           familyi={K\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Freiburg}%
+      }
+      \strng{namehash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \strng{fullhash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \strng{bibnamehash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \strng{authorbibnamehash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \strng{authornamehash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \strng{authorfullhash}{1ba839047b548bdbecaeb5ea8db6effe}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{Antipriscillanista. Dogmengeschichtliche Untersuchungen und Texte aus dem Streite gegen Priscillians Irrlehre}
+      \field{year}{1905}
+    \endentry
+    \entry{stochprocessus}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=65bbf810e4a64988efecfbb50626b70e}{%
+           family={{Laboratoire Bordelais de Recherche en Informatique (LaBRI)}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{65bbf810e4a64988efecfbb50626b70e}
+      \strng{fullhash}{65bbf810e4a64988efecfbb50626b70e}
+      \strng{bibnamehash}{65bbf810e4a64988efecfbb50626b70e}
+      \strng{authorbibnamehash}{65bbf810e4a64988efecfbb50626b70e}
+      \strng{authornamehash}{65bbf810e4a64988efecfbb50626b70e}
+      \strng{authorfullhash}{65bbf810e4a64988efecfbb50626b70e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://dept-info.labri.fr/ENSEIGNEMENT/formation-a-distance/cibermiage-processus/c1.7/accueil.htm}}
+      \field{title}{Processus Stochastiques -Cibermiage}
+      \field{year}{2005}
+      \true{nocite}
+    \endentry
+    \entry{lamarck}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=751ba4db862b563d1469d174878f3720}{%
+           family={Lamarck},
+           familyi={L\bibinitperiod},
+           given={Jean-Baptiste},
+           giveni={J\bibinithyphendelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Dentu Libraire}%
+      }
+      \strng{namehash}{751ba4db862b563d1469d174878f3720}
+      \strng{fullhash}{751ba4db862b563d1469d174878f3720}
+      \strng{bibnamehash}{751ba4db862b563d1469d174878f3720}
+      \strng{authorbibnamehash}{751ba4db862b563d1469d174878f3720}
+      \strng{authornamehash}{751ba4db862b563d1469d174878f3720}
+      \strng{authorfullhash}{751ba4db862b563d1469d174878f3720}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{title}{Philosophie zoologique}
+      \field{year}{1809}
+    \endentry
+    \entry{Lana}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7a44b6bf351dc62d2927bc2c1874027}{%
+           family={Lana},
+           familyi={L\bibinitperiod},
+           given={Italo},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rome}%
+      }
+      \list{publisher}{1}{%
+        {Studium}%
+      }
+      \strng{namehash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \strng{fullhash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \strng{bibnamehash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \strng{authorbibnamehash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \strng{authornamehash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \strng{authorfullhash}{a7a44b6bf351dc62d2927bc2c1874027}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{La biografia-la cronologia delle opere-la poetica}
+      \field{title}{Due capitoli prudenziani}
+      \field{year}{1962}
+    \endentry
+    \entry{madozprems}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1c41f0237eaaaeee41dd8b423102c86}{%
+           family={Madoz},
+           familyi={M\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{fullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{bibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorbibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authornamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorfullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Española de la Teología}
+      \field{number}{1}
+      \field{title}{Un decenio de estudios patrísticos en España(1931-1940)}
+      \field{year}{1940}
+      \true{nocite}
+      \field{pages}{919\bibrangedash 942}
+      \range{pages}{24}
+    \endentry
+    \entry{madozdeuz}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1c41f0237eaaaeee41dd8b423102c86}{%
+           family={Madoz},
+           familyi={M\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \strng{namehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{fullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{bibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorbibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authornamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorfullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Estudios Onienses}
+      \field{number}{1}
+      \field{series}{5}
+      \field{title}{Segundo decenio de estudios sobre patrística en España(1941-1950)}
+      \field{year}{1951}
+      \true{nocite}
+    \endentry
+    \entry{Madoz}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1c41f0237eaaaeee41dd8b423102c86}{%
+           family={Madoz},
+           familyi={M\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Maredsous}%
+      }
+      \strng{namehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{fullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{bibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorbibnamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authornamehash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \strng{authorfullhash}{d1c41f0237eaaaeee41dd8b423102c86}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Estudios Eclesiasticos}
+      \field{number}{t. XVI}
+      \field{title}{Herencia literario del presbitero Eutropio}
+      \field{year}{1952}
+      \field{pages}{27\bibrangedash 54}
+      \range{pages}{28}
+    \endentry
+    \entry{Maraval}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25705f8635ccf117372c1e793ca3040b}{%
+           family={Maraval},
+           familyi={M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{25705f8635ccf117372c1e793ca3040b}
+      \strng{fullhash}{25705f8635ccf117372c1e793ca3040b}
+      \strng{bibnamehash}{25705f8635ccf117372c1e793ca3040b}
+      \strng{authorbibnamehash}{25705f8635ccf117372c1e793ca3040b}
+      \strng{authornamehash}{25705f8635ccf117372c1e793ca3040b}
+      \strng{authorfullhash}{25705f8635ccf117372c1e793ca3040b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{note}{Réimpression à Paris en 2002}
+      \field{title}{Egerie. Journal de voyage (Itinéraire) (SC, 296)}
+      \field{year}{1982}
+      \true{nocite}
+    \endentry
+    \entry{marazuela}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9aa44d5ffa89596ad91f0cf34eabbf67}{%
+           family={Marazuela},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi Ayuso},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \strng{namehash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \strng{fullhash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \strng{bibnamehash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \strng{authorbibnamehash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \strng{authornamehash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \strng{authorfullhash}{9aa44d5ffa89596ad91f0cf34eabbf67}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Textos y estudios}
+      \field{series}{La Vetus Latina}
+      \field{title}{Los Padres y escritores eclesiásticos españoles}
+      \field{volume}{1}
+      \field{year}{1953}
+      \true{nocite}
+      \field{pages}{461\bibrangedash 532}
+      \range{pages}{72}
+    \endentry
+    \entry{MarconMesuresBioDiv2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb38e2d7cadf23c6ff7c7a6d8837cba4}{%
+           family={Marcon},
+           familyi={M\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \strng{fullhash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \strng{bibnamehash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \strng{authorbibnamehash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \strng{authornamehash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \strng{authorfullhash}{eb38e2d7cadf23c6ff7c7a6d8837cba4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{howpublished}{\url{https://github.com/ericmarcon/MesuresBioDiv2}}
+      \field{title}{{MesuresBioDiv2}}
+      \field{year}{2023}
+    \endentry
+    \entry{2010sources}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b4d80a1bd32a7f6165b709f92ee1a6f7}{%
+           family={Martín},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ee467a2c976eb599493c87a01bea399}{%
+           family={Hartmann},
+           familyi={H\bibinitperiod},
+           given={Carmen\bibnamedelima Cardelle},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=fd08004a7d6d44eced17620596ce4053}{%
+           family={Elfassi},
+           familyi={E\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{213951114cd3e594bdf2c95c26cc1076}
+      \strng{fullhash}{213951114cd3e594bdf2c95c26cc1076}
+      \strng{bibnamehash}{213951114cd3e594bdf2c95c26cc1076}
+      \strng{authorbibnamehash}{213951114cd3e594bdf2c95c26cc1076}
+      \strng{authornamehash}{213951114cd3e594bdf2c95c26cc1076}
+      \strng{authorfullhash}{213951114cd3e594bdf2c95c26cc1076}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Documents, études et répertoires de l'Institut de Recherche et d'Histoire des Textes}
+      \field{title}{Sources latines de l'Espagne tardo-antique et médiévale (Ve-XIVe siècles). Répertoire bibliographique}
+      \field{volume}{77}
+      \field{year}{2010}
+      \true{nocite}
+    \endentry
+    \entry{migne8}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{gender}{sm}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{8}
+      \field{year}{1844}
+    \endentry
+    \entry{migne14}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{gender}{sm}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{14}
+      \field{year}{1845}
+      \true{nocite}
+    \endentry
+    \entry{migne15}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{15}
+      \field{year}{1845}
+      \true{nocite}
+    \endentry
+    \entry{migne16}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{16}
+      \field{year}{1845}
+      \true{nocite}
+    \endentry
+    \entry{migne17}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{17}
+      \field{year}{1845}
+      \true{nocite}
+    \endentry
+    \entry{migne19}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{6}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \strng{crossref}{migneCollection}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+      \field{volume}{19}
+      \field{year}{1846}
+      \true{nocite}
+    \endentry
+    \entry{migneCollection}{collection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2229bbbfce5a207c1135bec9248a3793}{%
+           family={Migne[dir.]},
+           familyi={M\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Frères Garnier}%
+      }
+      \strng{namehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{fullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{bibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorbibnamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authornamehash}{2229bbbfce5a207c1135bec9248a3793}
+      \strng{authorfullhash}{2229bbbfce5a207c1135bec9248a3793}
+      \field{extraname}{7}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Series Latina}
+      \field{title}{Patrologiae Cursus Completus}
+    \endentry
+    \entry{Morin}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=492f7be60372b4e915faa5d05cd4669a}{%
+           family={Morin},
+           familyi={M\bibinitperiod},
+           given={Dom},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Maredsous}%
+      }
+      \strng{namehash}{492f7be60372b4e915faa5d05cd4669a}
+      \strng{fullhash}{492f7be60372b4e915faa5d05cd4669a}
+      \strng{bibnamehash}{492f7be60372b4e915faa5d05cd4669a}
+      \strng{authorbibnamehash}{492f7be60372b4e915faa5d05cd4669a}
+      \strng{authornamehash}{492f7be60372b4e915faa5d05cd4669a}
+      \strng{authorfullhash}{492f7be60372b4e915faa5d05cd4669a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Etudes, textes, et découvertes}
+      \field{number}{t. I}
+      \field{title}{Un traité inédit du IVe siècle : le \textit{De simitudine carnis pecati} de l’évêque Saint-Pacien de Barcelone}
+      \field{year}{1913}
+      \field{pages}{31\bibrangedash 150}
+      \range{pages}{120}
+    \endentry
+    \entry{muzerelle}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d264514f295e46b13d61388892d7f371}{%
+           family={Muzerelle},
+           familyi={M\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IRHT}%
+      }
+      \strng{namehash}{d264514f295e46b13d61388892d7f371}
+      \strng{fullhash}{d264514f295e46b13d61388892d7f371}
+      \strng{bibnamehash}{d264514f295e46b13d61388892d7f371}
+      \strng{authorbibnamehash}{d264514f295e46b13d61388892d7f371}
+      \strng{authornamehash}{d264514f295e46b13d61388892d7f371}
+      \strng{authorfullhash}{d264514f295e46b13d61388892d7f371}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vocabulaire codicologique: répertoire méthodique des termes français relatifs aux manuscrits}
+      \field{year}{1985}
+      \verb{urlraw}
+      \verb https://codicologia.irht.cnrs.fr/
+      \endverb
+      \verb{url}
+      \verb https://codicologia.irht.cnrs.fr/
+      \endverb
+    \endentry
+    \entry{Natalucci}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31ed64cd1b183697079e16b6f881e4ba}{%
+           family={Natalucci},
+           familyi={N\bibinitperiod},
+           given={Nicoletta},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Florence}%
+      }
+      \strng{namehash}{31ed64cd1b183697079e16b6f881e4ba}
+      \strng{fullhash}{31ed64cd1b183697079e16b6f881e4ba}
+      \strng{bibnamehash}{31ed64cd1b183697079e16b6f881e4ba}
+      \strng{authorbibnamehash}{31ed64cd1b183697079e16b6f881e4ba}
+      \strng{authornamehash}{31ed64cd1b183697079e16b6f881e4ba}
+      \strng{authorfullhash}{31ed64cd1b183697079e16b6f881e4ba}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sf}
+      \field{title}{Egeria. Pellegrinaggio in Terra Santa}
+      \field{year}{1991}
+      \true{nocite}
+    \endentry
+    \entry{Ballerini}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6ee1222f2e2636eb0903a72bc8e5f067}{%
+           family={Pietro},
+           familyi={P\bibinitperiod},
+           given={Ballerini},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c41b5e5e3a1f7f632ad7219c09fec25c}{%
+           family={Girolamo},
+           familyi={G\bibinitperiod},
+           given={Ballerini},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Vérone}%
+      }
+      \strng{namehash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \strng{fullhash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \strng{bibnamehash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \strng{authorbibnamehash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \strng{authornamehash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \strng{authorfullhash}{06f3eb85144b52ccf9b8e2b19ce6c7ea}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{gender}{pm}
+      \field{shorttitle}{Sancti Zenonis}
+      \field{title}{Sancti Zenonis episcopi Veronensis sermones}
+      \field{year}{1739}
+    \endentry
+    \entry{Romeropose}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a23d1928b6e3bf5d6be30ad2313558c8}{%
+           family={Pose},
+           familyi={P\bibinitperiod},
+           given={Eugenio\bibnamedelima Romero},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \strng{fullhash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \strng{bibnamehash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \strng{authorbibnamehash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \strng{authornamehash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \strng{authorfullhash}{a23d1928b6e3bf5d6be30ad2313558c8}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Burgense}
+      \field{number}{20}
+      \field{title}{Gregorio de Elvira en el Comentario de Apocalipsis de S. Beato de Liébana}
+      \field{year}{1979}
+      \true{nocite}
+      \field{pages}{289\bibrangedash 305}
+      \range{pages}{17}
+    \endentry
+    \entry{Aureliiprudentii}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1266baad53163a1d0f09054849144f3}{%
+           family={Prudence},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1042c7ae088d10e61e18120c5f437b27}{%
+           family={Bergman},
+           familyi={B\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vienne-Leipzig}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{fullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{bibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorbibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authornamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorfullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{editorbibnamehash}{1042c7ae088d10e61e18120c5f437b27}
+      \strng{editornamehash}{1042c7ae088d10e61e18120c5f437b27}
+      \strng{editorfullhash}{1042c7ae088d10e61e18120c5f437b27}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sm}
+      \field{series}{\textit{Corpus Scriptorum Ecclesiasticorum Latinorum (CSEL)}, 61}
+      \field{title}{Carmina}
+      \field{year}{1926}
+    \endentry
+    \entry{Prudencelavarenne}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1266baad53163a1d0f09054849144f3}{%
+           family={Prudence},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c6283b2a1fda75820d2bd8118a87ccab}{%
+           family={Lavarenne},
+           familyi={L\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Belles Lettres}%
+      }
+      \strng{namehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{fullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{bibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorbibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authornamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorfullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{editorbibnamehash}{c6283b2a1fda75820d2bd8118a87ccab}
+      \strng{editornamehash}{c6283b2a1fda75820d2bd8118a87ccab}
+      \strng{editorfullhash}{c6283b2a1fda75820d2bd8118a87ccab}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sm}
+      \field{title}{Oeuvres}
+      \field{year}{1943}
+    \endentry
+    \entry{AureliiCC}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d1266baad53163a1d0f09054849144f3}{%
+           family={Prudence},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=aa6b64b7c2774c4606c0ffe42484265d}{%
+           family={Cunningham},
+           familyi={C\bibinitperiod},
+           given={Maurice\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Turnhout}%
+      }
+      \list{publisher}{1}{%
+        {Brepols}%
+      }
+      \strng{namehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{fullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{bibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorbibnamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authornamehash}{d1266baad53163a1d0f09054849144f3}
+      \strng{authorfullhash}{d1266baad53163a1d0f09054849144f3}
+      \strng{editorbibnamehash}{aa6b64b7c2774c4606c0ffe42484265d}
+      \strng{editornamehash}{aa6b64b7c2774c4606c0ffe42484265d}
+      \strng{editorfullhash}{aa6b64b7c2774c4606c0ffe42484265d}
+      \field{extraname}{3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editortype}{criticaleditor}
+      \field{gender}{sm}
+      \field{series}{Corpus Christianorum. Series Latina}
+      \field{title}{Carmina}
+      \field{volume}{CXXVI}
+      \field{year}{1966}
+      \true{nocite}
+    \endentry
+    \entry{Quesnel}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9a6e2ad7e0ab5c1e2acc6b3610252bd4}{%
+           family={Quesnel},
+           familyi={Q\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \strng{fullhash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \strng{bibnamehash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \strng{authorbibnamehash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \strng{authornamehash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \strng{authorfullhash}{9a6e2ad7e0ab5c1e2acc6b3610252bd4}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{note}{Réimpression à Lyon en 1700}
+      \field{title}{Ad Sancti Leonis Magni opera appendix, seu Codex canonum et constitutorum sedis apostolicae}
+      \field{year}{1675}
+    \endentry
+    \entry{Reynolds}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=605fb2d643e0a7bc3cb2971f8b231408}{%
+           family={Reynolds},
+           familyi={R\bibinitperiod},
+           given={Leighton\bibnamedelima Durham},
+           giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \strng{fullhash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \strng{bibnamehash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \strng{authorbibnamehash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \strng{authornamehash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \strng{authorfullhash}{605fb2d643e0a7bc3cb2971f8b231408}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{gender}{sm}
+      \field{shorttitle}{Texts and Transmission: A Survey of the Latin Classics}
+      \field{title}{Texts and Transmission: A Survey of the Latin Classics}
+      \field{year}{1983}
+    \endentry
+    \entry{schaferabc}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b99be639cc280fee9d8d805d21822ae5}{%
+           family={Schafer},
+           familyi={S\bibinitperiod},
+           given={Chad\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{2}{%
+        {Department of Statistics}%
+        {Data Science, Carnegie Mellon University}%
+      }
+      \strng{namehash}{b99be639cc280fee9d8d805d21822ae5}
+      \strng{fullhash}{b99be639cc280fee9d8d805d21822ae5}
+      \strng{bibnamehash}{b99be639cc280fee9d8d805d21822ae5}
+      \strng{authorbibnamehash}{b99be639cc280fee9d8d805d21822ae5}
+      \strng{authornamehash}{b99be639cc280fee9d8d805d21822ae5}
+      \strng{authorfullhash}{b99be639cc280fee9d8d805d21822ae5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Overview of approximate bayesian computation}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://indico.cern.ch/event/937896/attachments/2074639/3483509/ABClectureSchaferHandout.pdf
+      \endverb
+      \verb{url}
+      \verb https://indico.cern.ch/event/937896/attachments/2074639/3483509/ABClectureSchaferHandout.pdf
+      \endverb
+    \endentry
+    \entry{Duestemmata}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fc4ad8f682e3195a5c849c2ee8d5da46}{%
+           family={Schulz-Flügel},
+           familyi={S\bibinithyphendelim F\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Fribourg-en-Brisgau}%
+      }
+      \strng{namehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{fullhash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{bibnamehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{authorbibnamehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{authornamehash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \strng{authorfullhash}{fc4ad8f682e3195a5c849c2ee8d5da46}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{gender}{sf}
+      \field{shorttitle}{Epithalamium}
+      \field{title}{Epithalamium, sive Explanatio in Canticis Canticorum}
+      \field{year}{1994}
+      \true{nocite}
+    \endentry
+    \entry{sisson}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b66104e89893ec321a8549c3dd6e4e6e}{%
+           family={Sisson},
+           familyi={S\bibinitperiod},
+           given={Scott\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61ee2739a6cf28ec7662089545696534}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Yanan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7af1cc14752add62724b5788ea398004}{%
+           family={Beaumont},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{c806ead31431efa949f0bff08132c0e4}
+      \strng{fullhash}{c806ead31431efa949f0bff08132c0e4}
+      \strng{bibnamehash}{c806ead31431efa949f0bff08132c0e4}
+      \strng{authorbibnamehash}{c806ead31431efa949f0bff08132c0e4}
+      \strng{authornamehash}{c806ead31431efa949f0bff08132c0e4}
+      \strng{authorfullhash}{c806ead31431efa949f0bff08132c0e4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Handbook of Approximate Bayesian Computation}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1201/9781315117195
+      \endverb
+    \endentry
+    \entry{Steel2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d30f1613015984b38a2f60dfac80640}{%
+           family={Steel},
+           familyi={S\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=268741dedc367134a6b9b712a7d7b679}{%
+           family={McKenzie},
+           familyi={M\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c217538bc427077bd17331c8332e7fdc}
+      \strng{fullhash}{c217538bc427077bd17331c8332e7fdc}
+      \strng{bibnamehash}{c217538bc427077bd17331c8332e7fdc}
+      \strng{authorbibnamehash}{c217538bc427077bd17331c8332e7fdc}
+      \strng{authornamehash}{c217538bc427077bd17331c8332e7fdc}
+      \strng{authorfullhash}{c217538bc427077bd17331c8332e7fdc}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Biosciences}
+      \field{number}{1}
+      \field{title}{Properties of phylogenetic trees generated by Yule-type speciation models}
+      \field{volume}{170}
+      \field{year}{2001}
+      \true{nocite}
+      \field{pages}{91\bibrangedash 112}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/S0025-5564(00)00061-4
+      \endverb
+    \endentry
+    \entry{timpanaro1963genesi}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ca150eb974eeda07d14ffe206b3c4e4}{%
+           family={Timpanaro},
+           familyi={T\bibinitperiod},
+           given={Sebastiano},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Florence}%
+      }
+      \list{publisher}{1}{%
+        {F. Le Monnier}%
+      }
+      \strng{namehash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \strng{fullhash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \strng{bibnamehash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \strng{authorbibnamehash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \strng{authornamehash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \strng{authorfullhash}{4ca150eb974eeda07d14ffe206b3c4e4}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La genesi del metodo del Lachmann}
+      \field{year}{1963}
+      \true{nocite}
+    \endentry
+    \entry{trovato2014lachmann}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8d6fb2c64a9c8ee992b02d76ab205e4c}{%
+           family={Trovato},
+           familyi={T\bibinitperiod},
+           given={Paolo},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Padoue}%
+      }
+      \list{publisher}{1}{%
+        {Libreriauniversitaria.it}%
+      }
+      \strng{namehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{fullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{bibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorbibnamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authornamehash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \strng{authorfullhash}{8d6fb2c64a9c8ee992b02d76ab205e4c}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Everything You Always Wanted to Know About Lachmannʼs Method: A Non-Standard Handbook of Genealogical Textual Criticism in the Age of Post-Structuralism, Cladistics, and Copy-Text}
+      \field{year}{2014}
+      \true{nocite}
+    \endentry
+    \entry{dominguez1956patrologia}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79d21835651b37b0fee34f3b26a85194}{%
+           family={Val},
+           familyi={V\bibinitperiod},
+           given={U.\bibnamedelimi Domínguez},
+           giveni={U\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0,
+           prefix={del},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \strng{namehash}{79d21835651b37b0fee34f3b26a85194}
+      \strng{fullhash}{79d21835651b37b0fee34f3b26a85194}
+      \strng{bibnamehash}{79d21835651b37b0fee34f3b26a85194}
+      \strng{authorbibnamehash}{79d21835651b37b0fee34f3b26a85194}
+      \strng{authornamehash}{79d21835651b37b0fee34f3b26a85194}
+      \strng{authorfullhash}{79d21835651b37b0fee34f3b26a85194}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Patrología Española}
+      \field{year}{1956}
+      \true{nocite}
+    \endentry
+    \entry{ludwig1977}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8e9576b154975e67345e1dfeca5db0bf}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Vandœuvres}%
+      }
+      \list{publisher}{1}{%
+        {Fondation Hardt}%
+      }
+      \strng{namehash}{8e9576b154975e67345e1dfeca5db0bf}
+      \strng{fullhash}{8e9576b154975e67345e1dfeca5db0bf}
+      \strng{bibnamehash}{8e9576b154975e67345e1dfeca5db0bf}
+      \strng{authorbibnamehash}{8e9576b154975e67345e1dfeca5db0bf}
+      \strng{authornamehash}{8e9576b154975e67345e1dfeca5db0bf}
+      \strng{authorfullhash}{8e9576b154975e67345e1dfeca5db0bf}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Entretiens de la Fondation Hardt}
+      \field{gender}{sm}
+      \field{title}{Die christliche Dichtung des Prudentius und die Transformation der klassischen Gattungen}
+      \field{volume}{23}
+      \field{year}{1977}
+    \endentry
+    \entry{weitzman1982simulation}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09a5260ed4a129310edcbd2fc2e14297}{%
+           family={Weitzman},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{fullhash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{bibnamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authorbibnamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authornamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authorfullhash}{09a5260ed4a129310edcbd2fc2e14297}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{ALLC Bulletin}
+      \field{title}{Computer simulation of the development of manuscript traditions}
+      \field{volume}{10}
+      \field{year}{1982}
+      \true{nocite}
+      \field{pages}{55\bibrangedash 59}
+      \range{pages}{5}
+    \endentry
+    \entry{weitzman1987evolution}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09a5260ed4a129310edcbd2fc2e14297}{%
+           family={Weitzman},
+           familyi={W\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{fullhash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{bibnamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authorbibnamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authornamehash}{09a5260ed4a129310edcbd2fc2e14297}
+      \strng{authorfullhash}{09a5260ed4a129310edcbd2fc2e14297}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{gender}{sm}
+      \field{journaltitle}{Journal of the Royal Statistical Society. Series A (General)}
+      \field{title}{The evolution of manuscript traditions}
+      \field{volume}{150}
+      \field{year}{1987}
+      \field{pages}{287\bibrangedash 308}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.2307/2982040
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/2982040
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/2982040
+      \endverb
+    \endentry
+    \entry{yule1925}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=282c346787eed944a6cfc22012f33e81}{%
+           family={Yule},
+           familyi={Y\bibinitperiod},
+           given={G.\bibnamedelimi U.},
+           giveni={G\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{282c346787eed944a6cfc22012f33e81}
+      \strng{fullhash}{282c346787eed944a6cfc22012f33e81}
+      \strng{bibnamehash}{282c346787eed944a6cfc22012f33e81}
+      \strng{authorbibnamehash}{282c346787eed944a6cfc22012f33e81}
+      \strng{authornamehash}{282c346787eed944a6cfc22012f33e81}
+      \strng{authorfullhash}{282c346787eed944a6cfc22012f33e81}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Transactions of the Royal Society of London. Series B, Containing Papers of a Biological Character}
+      \field{title}{A mathematical theory of evolution, based on the conclusions of Dr. J. C. Willis}
+      \field{volume}{213}
+      \field{year}{1925}
+      \field{pages}{21\bibrangedash 87}
+      \range{pages}{67}
+      \verb{doi}
+      \verb 10.1098/rstb.1925.0002
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

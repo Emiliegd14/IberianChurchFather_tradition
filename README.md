@@ -80,4 +80,33 @@ pip install copia
 pip install -r unseen_species/requirements_copia.txt
 ```
 
+## Modélisation stochastique de processus de naissance et de mort
+
+Cette méthode s’appuie sur l'article de référence :  
+CAMPS (Jean-Baptiste), CHRISTENSEN (Kelly), GODREAU (Ulysse) et MOINS (Théo), « One Tree
+to Yule Them All ? reflexions on intertextuality and text transmission », École nationale
+des chartes, Université PSL (, 2024), Preprint or working paper.
+
+### Dépôt GitHub associé :  
+- https://github.com/LostMa-ERC/simMAtree
+
+## Installation et étapes
+
+Certains prérequis sont nécessaires :
+- Python 3.8+
+- `git`
+- Un environnement virtuel (optionnel mais vivement recommandé!)
+
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/LostMa-ERC/simMAtree.git
+
+# Aller dans le dossier du projet
+cd simMAtree
+
+# Installer le package localement
+pip install .
+
+
 

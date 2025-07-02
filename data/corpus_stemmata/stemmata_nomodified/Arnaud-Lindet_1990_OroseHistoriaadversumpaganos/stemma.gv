@@ -22,7 +22,7 @@ beta-> 6[minlen=5]
 G-> J
 beta -> 7[minlen=4]
 7 -> R[minlen=4]
-P -> R[dir=none, constraint=false]
+P -> R[dir=none, constraint=false, style="dashed"]
 7-> 8[minlen=2]
 8-> Q[minlen=3]
 8-> Mprime
@@ -32,29 +32,6 @@ beta->9[minlen=4]
 10 ->11
 11->Aprime
 11-> I[minlen=2]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 omega[label = "ω", color="grey"]
@@ -89,6 +66,4 @@ I[label = "I"]
 graph [style=invis, splines=true];
 
 }
-
-
 

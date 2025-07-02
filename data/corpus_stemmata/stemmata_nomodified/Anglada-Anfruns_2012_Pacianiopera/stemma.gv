@@ -24,7 +24,7 @@ digraph {
     P[label="P"]
     M[label="M"]
     B[label="B"]
-    FloroofLyon[label="Floro of Lyon"]
+    FloroofLyon[label="Floro of Lyon", color="grey"];
     Tilius[label="edition princeps Tilius"]
     Bigne[label="Bigne 1575"]
     Bignebis[label="Bigne 1677"]

@@ -12,8 +12,7 @@ digraph {
     capitalomega [color="grey", label="Ω"];
     V[label="V"]
     M[label="M"]
-    V[label="V"]
     R[label="R"]
-    codexLugdu[label="(codex Lugdunensis)"]
+    codexLugdu[label="(codex Lugdunensis)", color="grey"];
     1[color="grey", label=""]; 
 }

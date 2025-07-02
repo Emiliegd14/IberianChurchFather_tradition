@@ -43,15 +43,15 @@ digraph {
     deltaprime [label="δ'", color=grey];
     mu [label="μ", color=grey];
     G [label="G"];
-    H [label="(H)"];
+    H [label="(H)", color="grey"];
     IP [label="IP"];
     M [label="M"];
-    A [label="(A)"];
+    A [label="(A)", color="grey"];
     Hm [label="Hm"];
-    O [label="(O)"];
+    O [label="(O)", color="grey"];
     Hb [label="Hb"];
-    Ha [label="(Ha)"];
-    Hs [label="(Hs)"];
+    Ha [label="(Ha)", color="grey"];
+    Hs [label="(Hs)", color="grey"];
     Hc [label="Hc"];
     B [label="B"];
     C [label="C"];
@@ -60,8 +60,8 @@ digraph {
     S [label="S"];
     epsilon [label="ε", color=grey];
     F [label="F"];
-    Fpar[label="(F)"];
-    cF [label="cF"];
+    Fpar[label="(F)", color="grey"];
+    cF [label="cF", color="grey"];
     phi [label="φ", color=grey];
      Fdeux [label="F2"];
     

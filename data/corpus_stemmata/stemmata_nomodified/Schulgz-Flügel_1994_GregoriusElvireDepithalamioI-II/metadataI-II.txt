@@ -30,7 +30,7 @@ derivatives : "NA"
 contributors:
     - contributor: "Emilie Guidi"
       contributorORCID: ""
-note : ""
+note : "[Explain why omega one and two]"
 wits:
     - witSigla: "A"
       witSignature: "Madrid, Biblioteca de la Real Academia de la Historia, 80"

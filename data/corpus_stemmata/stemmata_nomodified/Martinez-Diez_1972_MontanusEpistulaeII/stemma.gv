@@ -25,16 +25,9 @@ digraph {
  mu->G[minlen=3]
 
 
-
-
-
-
-
-
-
-   recensioI[label="recensio Isidoriana ca. 681"];
-   recensioV[label="recensio Vulgata ca. 694"];
-   recensioJ[label="recensio Isidorana ca. 633"];
+   recensioI[label="recensio Isidoriana ca. 681", color="grey"];
+   recensioV[label="recensio Vulgata ca. 694", color="grey"];
+   recensioJ[label="recensio Isidorana ca. 633", color="grey"];
    kappa[label="κ", color=grey];
    mu[label="μ ", color=grey];
    G[label="G"];
@@ -46,7 +39,7 @@ digraph {
    T[label="T"];
    S[label="S"];
    C[label="C"];
-   Lu[label="(Lu)"];
+   Lu[label="(Lu)", color="grey"];
    Vat[label="Vat"];
    Z[label="Z"];
    Ma[label="Ma"];
@@ -56,6 +49,4 @@ digraph {
    4[label="",color=grey];
    5[label="",color=grey];
 }
-
-
 

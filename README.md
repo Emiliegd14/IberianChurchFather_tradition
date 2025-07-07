@@ -98,7 +98,6 @@ Pour l’installer, il suffit d’exécuter la commande `pip install` et d’ins
 
 
 ```bash
-pip install copia
 pip install -r unseen_species/requirements_copia.txt
 ```
 
